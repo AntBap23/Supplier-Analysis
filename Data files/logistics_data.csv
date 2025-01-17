@@ -1,0 +1,1001 @@
+LogisticsID,SupplierID,TransportMode,ShippingRegion,ShippingCostUSD,DeliveryDays
+1,40,Sea,Asia,2198.88,18
+2,28,Road,North America,1723.83,15
+3,27,Air,Asia,4888.48,15
+4,2,Air,South America,4330.87,6
+5,33,Air,Asia,1682.91,11
+6,16,Road,South America,2372.52,28
+7,39,Road,South America,2133.88,8
+8,22,Air,Asia,830.57,29
+9,43,Air,Africa,4793.31,21
+10,47,Rail,Africa,2081.13,17
+11,13,Road,Africa,4389.11,24
+12,2,Rail,Europe,1027.85,25
+13,14,Air,South America,2784.57,17
+14,38,Air,Asia,217.41,24
+15,41,Air,Africa,3844.68,26
+16,28,Air,Africa,2946.48,28
+17,7,Sea,Asia,3165.39,18
+18,18,Sea,South America,353.43,4
+19,41,Sea,Asia,1134.09,29
+20,36,Rail,Europe,464.22,15
+21,41,Road,Europe,1515.68,2
+22,36,Air,Asia,3174.45,2
+23,44,Road,South America,2874.31,10
+24,4,Sea,Africa,3099.53,3
+25,30,Air,Europe,2791.33,8
+26,24,Air,Europe,1437.84,20
+27,20,Rail,South America,1298.09,7
+28,46,Road,Europe,771.59,12
+29,31,Rail,Europe,4260.45,26
+30,24,Sea,South America,3120.75,19
+31,7,Road,Asia,1013.9,26
+32,26,Sea,Africa,968.33,28
+33,13,Rail,Africa,4377.87,15
+34,8,Rail,Europe,3739.38,14
+35,5,Air,Africa,3331.06,16
+36,44,Road,Asia,2093.63,29
+37,13,Road,Europe,1383.68,27
+38,29,Air,Africa,4899.31,14
+39,20,Road,North America,4006.47,3
+40,14,Sea,North America,1578.72,18
+41,32,Sea,North America,4253.07,29
+42,50,Rail,North America,3818.77,28
+43,27,Sea,North America,1555.69,22
+44,25,Road,Europe,2190.11,6
+45,4,Air,South America,1011.17,17
+46,21,Rail,South America,644.16,23
+47,18,Air,Europe,3641.53,28
+48,39,Rail,Europe,1410.81,14
+49,15,Rail,Asia,4118.29,14
+50,38,Air,South America,4978.48,20
+51,48,Sea,North America,475.44,13
+52,24,Sea,Europe,2417.87,27
+53,8,Sea,North America,4030.11,28
+54,28,Sea,South America,3965.86,3
+55,21,Air,Africa,3823.99,13
+56,16,Road,Africa,1810.08,29
+57,16,Rail,Europe,2323.88,24
+58,35,Air,Asia,3015.34,2
+59,17,Sea,North America,4872.31,9
+60,9,Sea,Europe,1704.98,13
+61,35,Air,Asia,4623.41,8
+62,29,Rail,North America,1419.85,16
+63,39,Air,South America,4946.46,24
+64,18,Air,Africa,3384.29,29
+65,12,Road,Asia,2371.21,3
+66,19,Air,North America,3105.61,13
+67,48,Road,Europe,1435.4,4
+68,22,Rail,North America,1443.45,18
+69,49,Air,Europe,656.42,2
+70,15,Air,Africa,658.85,20
+71,1,Sea,Africa,1803.59,22
+72,2,Air,North America,3837.99,21
+73,8,Sea,North America,3079.06,15
+74,22,Sea,Europe,602.66,17
+75,25,Sea,Europe,4275.96,29
+76,2,Rail,Asia,3046.7,10
+77,9,Road,Asia,4808.19,1
+78,9,Sea,Asia,3383.91,6
+79,13,Air,North America,958.36,3
+80,6,Air,Asia,2421.54,19
+81,30,Sea,North America,3277.64,7
+82,15,Sea,Africa,238.5,13
+83,15,Air,South America,173.06,13
+84,50,Sea,Africa,734.07,17
+85,7,Road,North America,1333.16,1
+86,11,Road,North America,2204.79,14
+87,40,Rail,South America,2488.46,29
+88,38,Sea,Europe,776.34,26
+89,40,Rail,Europe,3399.62,3
+90,2,Rail,Europe,3021.08,14
+91,48,Rail,Asia,1542.87,24
+92,39,Sea,Europe,166.93,1
+93,10,Rail,Asia,480.47,16
+94,44,Road,Asia,2019.3,10
+95,17,Rail,Europe,854.47,13
+96,7,Road,Europe,1946.42,4
+97,40,Road,South America,3178.09,9
+98,39,Sea,South America,2781.46,14
+99,4,Rail,Asia,1232.76,4
+100,35,Sea,South America,1784.73,10
+101,47,Road,Asia,3108.75,8
+102,36,Air,North America,4318.19,23
+103,31,Rail,Asia,3790.75,3
+104,25,Sea,Asia,2811.66,23
+105,41,Air,South America,1875.24,7
+106,13,Rail,North America,1888.75,10
+107,18,Rail,Africa,4409.14,3
+108,21,Sea,Africa,292.29,2
+109,48,Air,Africa,4941.11,15
+110,1,Sea,North America,3355.44,9
+111,36,Rail,Europe,3437.57,15
+112,50,Rail,North America,286.19,17
+113,8,Road,South America,3067.09,7
+114,48,Rail,Asia,2475.41,20
+115,21,Rail,Asia,618.32,18
+116,43,Air,South America,1461.82,15
+117,21,Air,South America,4462.54,18
+118,27,Road,Asia,2794.94,24
+119,19,Road,Europe,2125.74,23
+120,23,Road,Europe,456.14,12
+121,50,Sea,Europe,3599.2,23
+122,43,Sea,South America,3543.97,21
+123,35,Road,Asia,3108.81,26
+124,40,Sea,Asia,2600.29,8
+125,42,Rail,Asia,2225.54,2
+126,48,Road,North America,3007.03,2
+127,5,Road,North America,1243.64,5
+128,41,Sea,Africa,4712.17,1
+129,8,Air,North America,2985.09,22
+130,11,Road,Europe,1624.84,4
+131,16,Sea,Europe,2303.43,6
+132,39,Sea,Europe,4047.86,23
+133,47,Air,Europe,891.92,13
+134,24,Road,Africa,1534.89,19
+135,21,Air,Europe,3429.59,11
+136,23,Rail,South America,1645.9,13
+137,49,Air,South America,3983.26,8
+138,38,Air,South America,739.22,7
+139,47,Sea,North America,3837.16,13
+140,8,Air,Asia,434.92,1
+141,7,Rail,Africa,161.7,6
+142,2,Sea,South America,4501.3,7
+143,30,Rail,South America,2948.56,16
+144,13,Air,Europe,1823.95,27
+145,23,Rail,South America,1239.71,15
+146,29,Rail,Europe,3122.74,20
+147,38,Air,Europe,2594.11,2
+148,37,Air,Asia,4958.83,26
+149,20,Sea,North America,4917.76,25
+150,33,Sea,Europe,3211.62,23
+151,29,Road,Europe,2270.07,16
+152,50,Sea,Asia,2506.59,17
+153,15,Air,Europe,3444.15,24
+154,23,Rail,Africa,597.72,15
+155,42,Rail,North America,1708.93,3
+156,3,Sea,Africa,468.83,4
+157,37,Sea,South America,459.47,12
+158,29,Air,North America,1059.61,5
+159,45,Rail,South America,2477.74,17
+160,8,Road,Europe,3945.39,6
+161,22,Road,Asia,2478.93,10
+162,29,Sea,Africa,1743.84,22
+163,2,Road,South America,503.53,18
+164,41,Air,Europe,2796.45,27
+165,49,Road,Africa,1429.22,10
+166,50,Sea,Africa,3113.18,6
+167,45,Air,South America,4888.22,24
+168,1,Rail,Europe,645.44,6
+169,44,Air,Asia,1139.41,20
+170,20,Sea,South America,2418.16,15
+171,21,Sea,Africa,4846.21,4
+172,37,Road,Africa,3881.87,25
+173,8,Road,North America,4501.32,16
+174,27,Rail,Europe,1735.2,22
+175,47,Rail,North America,4960.99,24
+176,35,Sea,Asia,603.88,8
+177,6,Sea,South America,359.57,7
+178,45,Sea,Africa,4292.45,19
+179,44,Rail,Europe,4643.6,26
+180,19,Sea,Africa,543.87,17
+181,18,Rail,North America,655.79,21
+182,1,Sea,North America,262.55,13
+183,25,Air,South America,612.09,15
+184,27,Air,Europe,1126.16,26
+185,7,Sea,Europe,4853.38,26
+186,44,Air,South America,3372.52,2
+187,42,Rail,North America,3914.91,28
+188,29,Road,North America,3903.08,10
+189,31,Air,North America,2721.86,13
+190,44,Road,Africa,4007.7,18
+191,43,Air,Asia,3019.46,23
+192,36,Rail,North America,1641.28,11
+193,19,Air,Asia,2849.44,13
+194,6,Air,Asia,2714.19,19
+195,25,Sea,Europe,4134.92,29
+196,31,Road,South America,4910.46,24
+197,9,Road,Africa,2114.11,25
+198,20,Rail,Asia,3840.61,29
+199,10,Rail,Africa,588.84,24
+200,37,Road,Europe,3906.47,22
+201,27,Sea,North America,1919.94,5
+202,13,Sea,Asia,293.01,3
+203,41,Road,South America,1879.91,19
+204,2,Air,Europe,3092.15,23
+205,50,Road,Africa,684.33,13
+206,21,Air,North America,4627.77,5
+207,33,Road,Africa,480.59,12
+208,24,Air,South America,4657.03,14
+209,44,Sea,Asia,3564.97,6
+210,42,Road,South America,1715.59,22
+211,34,Rail,Africa,2014.68,9
+212,9,Air,Africa,3729.97,17
+213,2,Sea,South America,3047.21,8
+214,30,Rail,South America,3391.05,26
+215,22,Sea,South America,2006.91,13
+216,46,Air,North America,2490.29,29
+217,11,Road,Africa,4950.35,5
+218,43,Sea,Europe,1148.22,29
+219,17,Road,North America,2147.5,22
+220,36,Road,North America,1529.93,22
+221,13,Sea,North America,3849.05,17
+222,7,Sea,Europe,3843.66,3
+223,16,Sea,South America,1532.98,28
+224,33,Road,Africa,498.81,6
+225,45,Rail,Asia,156.02,14
+226,1,Air,Asia,2194.51,15
+227,11,Rail,Africa,2110.65,14
+228,6,Road,Europe,4943.11,11
+229,20,Sea,Asia,2402.03,11
+230,35,Sea,North America,1356.45,9
+231,44,Air,Asia,4467.02,6
+232,37,Air,Africa,2506.23,15
+233,41,Rail,North America,3035.96,12
+234,26,Rail,Asia,568.78,29
+235,12,Air,Africa,1976.29,6
+236,30,Road,Europe,4726.7,1
+237,28,Rail,Africa,2988.58,25
+238,27,Sea,Europe,1788.06,16
+239,42,Sea,North America,3165.77,20
+240,19,Road,Africa,4561.01,15
+241,5,Air,South America,1442.55,2
+242,5,Rail,South America,2575.07,17
+243,41,Sea,South America,4797.58,3
+244,27,Air,South America,944.74,3
+245,28,Rail,South America,3626.35,5
+246,26,Road,Europe,3110.96,17
+247,27,Sea,Africa,3430.41,23
+248,49,Road,North America,1820.98,29
+249,42,Road,South America,1638.01,17
+250,21,Road,South America,3452.63,20
+251,1,Rail,North America,1156.16,6
+252,28,Road,North America,2156.31,1
+253,48,Rail,South America,1022.06,7
+254,15,Rail,Europe,140.69,26
+255,17,Road,North America,4853.28,15
+256,26,Road,Africa,2215.34,7
+257,20,Air,Africa,4849.81,19
+258,25,Sea,Europe,787.59,20
+259,13,Air,Asia,2978.1,22
+260,33,Sea,Europe,1084.77,11
+261,25,Sea,South America,3971.36,23
+262,8,Air,Asia,3940.14,14
+263,5,Air,South America,651.78,13
+264,6,Sea,Africa,4569.12,20
+265,23,Sea,North America,1053.69,26
+266,30,Sea,South America,3103.59,27
+267,14,Rail,Africa,4929.6,25
+268,23,Sea,Europe,4423.74,9
+269,11,Road,South America,4787.16,9
+270,31,Road,Africa,1778.73,16
+271,6,Road,North America,617.32,12
+272,11,Air,South America,1022.9,10
+273,13,Air,Africa,2552.42,6
+274,12,Air,South America,3986.83,18
+275,2,Sea,North America,835.75,2
+276,35,Road,South America,3332.68,27
+277,36,Sea,South America,1685.53,20
+278,17,Rail,Africa,1771.89,9
+279,28,Rail,Asia,3343.4,19
+280,28,Air,South America,2388.3,6
+281,22,Rail,Asia,4078.96,2
+282,38,Road,Europe,864.0,15
+283,7,Rail,South America,3970.75,17
+284,15,Air,Asia,414.75,16
+285,32,Sea,Europe,1050.86,28
+286,11,Rail,Africa,3315.13,21
+287,24,Road,South America,4289.14,8
+288,3,Road,Africa,1338.13,10
+289,30,Road,Europe,1703.24,10
+290,6,Sea,Africa,2731.89,18
+291,2,Road,Africa,1136.71,10
+292,14,Air,North America,4074.67,9
+293,41,Air,Europe,3890.82,28
+294,18,Road,Africa,811.93,24
+295,44,Rail,Asia,2372.77,19
+296,31,Road,Europe,3896.66,1
+297,13,Air,North America,1752.91,4
+298,26,Air,South America,3202.22,24
+299,44,Air,Africa,346.04,3
+300,12,Rail,Asia,3082.57,10
+301,18,Rail,North America,848.0,12
+302,9,Rail,Europe,4169.86,18
+303,49,Air,Africa,1841.7,23
+304,21,Sea,North America,1479.61,20
+305,48,Road,North America,4220.36,6
+306,49,Road,Asia,345.71,21
+307,40,Air,South America,2043.38,2
+308,43,Rail,South America,1913.02,10
+309,24,Sea,South America,1495.52,2
+310,34,Sea,Europe,4567.6,9
+311,8,Rail,North America,3779.55,27
+312,44,Road,Europe,413.22,10
+313,33,Road,North America,3601.97,2
+314,23,Sea,Asia,2683.77,8
+315,13,Sea,Asia,4514.25,24
+316,49,Rail,Europe,1633.43,17
+317,14,Road,Europe,2913.39,17
+318,14,Sea,Asia,2553.7,29
+319,16,Road,Africa,2498.85,4
+320,49,Sea,South America,2334.92,18
+321,38,Rail,South America,1107.58,12
+322,39,Road,Asia,3802.98,17
+323,26,Sea,South America,2311.55,9
+324,26,Sea,Africa,4796.73,29
+325,1,Sea,Africa,1377.96,19
+326,32,Sea,North America,3445.44,14
+327,15,Rail,Europe,4709.51,14
+328,21,Road,South America,3350.95,17
+329,18,Road,Africa,4369.24,2
+330,30,Air,Europe,4154.66,8
+331,13,Road,Europe,1864.58,5
+332,24,Air,North America,3040.61,27
+333,30,Sea,Europe,865.68,7
+334,2,Rail,Europe,2724.08,22
+335,19,Rail,Asia,1229.07,29
+336,47,Sea,North America,3744.31,16
+337,44,Air,North America,2687.49,16
+338,47,Sea,South America,2115.01,17
+339,25,Rail,Europe,1417.11,22
+340,50,Rail,South America,4993.62,27
+341,14,Road,Africa,451.38,7
+342,6,Air,Europe,313.45,20
+343,12,Road,Africa,1164.56,8
+344,20,Rail,Asia,4858.26,8
+345,23,Rail,Europe,4898.27,23
+346,30,Road,South America,3309.15,11
+347,30,Road,South America,4412.52,15
+348,38,Rail,Europe,1148.41,18
+349,30,Road,South America,4863.01,6
+350,41,Road,Europe,799.65,22
+351,30,Air,North America,595.51,12
+352,36,Rail,South America,649.84,15
+353,49,Sea,Europe,2908.33,28
+354,34,Air,Europe,3926.77,23
+355,16,Sea,South America,1896.67,6
+356,24,Road,North America,4891.69,18
+357,14,Road,South America,2228.66,24
+358,26,Sea,Europe,837.2,20
+359,8,Road,North America,2383.24,9
+360,14,Road,Africa,3427.28,8
+361,31,Air,Asia,4177.91,14
+362,2,Sea,South America,2347.96,19
+363,48,Air,Europe,3008.67,19
+364,4,Sea,North America,1409.99,8
+365,1,Air,North America,3264.99,2
+366,20,Rail,Africa,4931.26,25
+367,14,Rail,South America,340.36,4
+368,40,Sea,North America,4444.0,6
+369,25,Rail,Africa,2855.18,3
+370,25,Air,Europe,1335.28,3
+371,3,Sea,Africa,4778.96,19
+372,5,Rail,South America,2468.44,11
+373,38,Rail,Africa,1725.28,29
+374,26,Sea,North America,989.34,10
+375,40,Rail,North America,1297.82,12
+376,38,Rail,Asia,4180.96,14
+377,38,Sea,Africa,3110.61,28
+378,4,Rail,Europe,4574.9,18
+379,7,Rail,South America,1236.65,24
+380,30,Rail,Asia,693.58,9
+381,30,Rail,Africa,129.83,15
+382,19,Road,Europe,2588.52,24
+383,39,Sea,Asia,4991.7,26
+384,35,Road,North America,3505.33,3
+385,40,Road,South America,1611.13,23
+386,33,Air,Africa,4396.61,11
+387,33,Road,Europe,3930.44,10
+388,14,Road,North America,175.53,18
+389,38,Air,Asia,4102.62,4
+390,10,Rail,South America,1572.58,28
+391,28,Rail,Asia,833.4,13
+392,14,Road,Asia,1209.02,29
+393,36,Air,Europe,2396.04,6
+394,38,Rail,North America,2181.85,27
+395,16,Air,Africa,1515.55,21
+396,21,Sea,Europe,943.87,13
+397,28,Sea,South America,3834.93,25
+398,33,Sea,Asia,4951.54,26
+399,6,Sea,South America,3911.18,20
+400,41,Road,Europe,1550.09,5
+401,15,Sea,Europe,1299.56,20
+402,44,Sea,Africa,1166.56,14
+403,3,Air,Asia,769.81,13
+404,43,Rail,Europe,2801.52,14
+405,47,Air,South America,3066.46,8
+406,35,Road,Africa,3556.96,16
+407,14,Sea,South America,3433.05,13
+408,2,Rail,Asia,1532.43,24
+409,29,Rail,Africa,1718.52,15
+410,4,Sea,Africa,3439.42,19
+411,26,Sea,Africa,1812.29,1
+412,12,Road,North America,1141.85,22
+413,2,Road,Africa,1934.25,2
+414,17,Sea,South America,1433.21,18
+415,35,Sea,South America,532.73,19
+416,10,Sea,Asia,4167.68,8
+417,48,Sea,Europe,4280.25,3
+418,22,Rail,Europe,1176.78,23
+419,41,Road,North America,417.38,26
+420,43,Sea,Africa,3720.25,14
+421,21,Sea,North America,1136.49,26
+422,15,Rail,Asia,2027.83,9
+423,35,Air,Asia,414.26,29
+424,48,Sea,Europe,1208.72,8
+425,21,Rail,Asia,3985.22,17
+426,21,Rail,Africa,4041.54,23
+427,21,Air,South America,1114.72,23
+428,44,Road,Asia,1745.98,24
+429,32,Road,North America,757.77,16
+430,5,Road,Africa,463.45,10
+431,39,Sea,Asia,4961.64,21
+432,9,Road,Asia,3312.41,10
+433,18,Sea,Africa,2756.27,25
+434,21,Sea,Asia,3850.94,25
+435,8,Rail,South America,4216.38,24
+436,44,Road,Europe,4052.9,6
+437,34,Road,Africa,181.04,22
+438,10,Road,North America,1015.36,17
+439,41,Sea,Asia,3309.04,29
+440,24,Sea,Europe,1941.22,16
+441,40,Road,North America,4914.16,15
+442,24,Sea,North America,3360.48,22
+443,32,Sea,South America,4787.09,14
+444,33,Air,Europe,1087.09,4
+445,38,Air,Africa,4333.39,4
+446,44,Road,Europe,1674.63,2
+447,49,Road,Europe,4948.87,29
+448,34,Air,North America,872.67,11
+449,11,Sea,South America,2630.07,4
+450,31,Sea,South America,3984.94,21
+451,18,Rail,Europe,2219.95,29
+452,23,Road,Europe,2393.61,28
+453,22,Road,Asia,4933.14,21
+454,43,Road,North America,2184.01,16
+455,18,Rail,Africa,3059.95,21
+456,40,Rail,Africa,367.24,4
+457,47,Sea,South America,4226.83,1
+458,41,Air,North America,3276.02,26
+459,47,Air,South America,2079.7,24
+460,39,Air,Africa,179.23,19
+461,20,Sea,Europe,2999.18,2
+462,13,Air,North America,162.02,9
+463,45,Rail,North America,105.9,23
+464,1,Rail,Asia,3118.88,25
+465,4,Road,Europe,1026.18,13
+466,24,Air,Europe,1040.25,18
+467,36,Rail,South America,3301.03,16
+468,36,Road,North America,363.12,16
+469,45,Air,South America,1635.69,25
+470,2,Air,Europe,832.22,10
+471,28,Rail,Asia,2942.86,9
+472,26,Road,North America,3342.65,11
+473,23,Road,Europe,3633.57,25
+474,15,Rail,Asia,1350.63,26
+475,36,Rail,Africa,537.32,29
+476,27,Rail,Europe,485.55,26
+477,6,Air,Africa,2188.14,4
+478,35,Rail,South America,4734.64,10
+479,39,Rail,Africa,1166.87,3
+480,38,Sea,Europe,1358.03,6
+481,35,Rail,Africa,594.36,3
+482,36,Rail,North America,3067.29,27
+483,10,Air,Europe,3431.38,9
+484,30,Road,Asia,3250.36,3
+485,41,Air,Africa,4319.54,18
+486,38,Sea,North America,2483.49,8
+487,29,Rail,South America,758.84,22
+488,43,Rail,South America,1518.09,8
+489,39,Rail,Africa,3345.91,15
+490,50,Rail,South America,3104.3,13
+491,4,Rail,Asia,2701.92,7
+492,5,Rail,Europe,3446.53,19
+493,4,Sea,North America,3223.22,8
+494,36,Rail,Africa,4418.49,10
+495,45,Rail,South America,2971.48,17
+496,16,Rail,Europe,3915.15,1
+497,25,Sea,Asia,1318.67,13
+498,14,Rail,South America,3423.09,29
+499,11,Sea,South America,4520.75,26
+500,29,Air,North America,1990.09,13
+501,34,Rail,Asia,3917.61,24
+502,22,Road,Asia,3651.47,16
+503,14,Sea,Africa,391.68,29
+504,24,Air,North America,2949.39,9
+505,39,Sea,Africa,737.93,10
+506,26,Sea,North America,4839.86,6
+507,43,Air,Asia,4075.9,5
+508,36,Rail,North America,637.65,2
+509,39,Rail,North America,696.58,11
+510,16,Sea,North America,3012.92,9
+511,38,Air,Europe,1789.96,6
+512,32,Rail,Europe,271.04,8
+513,6,Sea,Asia,2754.04,9
+514,34,Road,North America,2000.44,9
+515,8,Air,Asia,595.27,8
+516,30,Road,Europe,4029.41,12
+517,27,Road,North America,4583.88,26
+518,7,Sea,Africa,3807.31,8
+519,27,Air,Europe,4129.87,3
+520,25,Rail,Europe,1160.8,13
+521,46,Rail,Europe,1391.51,19
+522,41,Sea,North America,1121.78,2
+523,15,Rail,South America,3848.81,17
+524,25,Rail,Africa,4744.79,16
+525,22,Road,Africa,3612.5,4
+526,18,Road,Asia,4419.19,18
+527,12,Air,North America,3229.63,14
+528,23,Road,Europe,1999.53,2
+529,45,Rail,South America,2186.23,13
+530,39,Air,North America,469.08,27
+531,25,Air,North America,254.14,27
+532,10,Sea,South America,3507.83,21
+533,30,Road,Europe,2248.3,20
+534,10,Air,North America,2805.85,17
+535,34,Rail,Africa,2832.54,15
+536,46,Air,Africa,1459.14,25
+537,13,Air,South America,2431.87,20
+538,29,Sea,Europe,2406.73,5
+539,38,Rail,South America,2003.29,7
+540,41,Rail,North America,4121.31,18
+541,45,Road,Africa,2310.7,24
+542,9,Rail,Asia,3057.86,11
+543,13,Air,South America,4488.05,18
+544,37,Rail,Asia,4344.54,27
+545,14,Rail,Asia,4463.07,26
+546,37,Air,Africa,1423.02,5
+547,9,Sea,South America,271.41,13
+548,8,Road,Asia,1379.23,28
+549,39,Road,North America,1465.67,18
+550,40,Sea,Europe,4555.87,2
+551,3,Air,Europe,3281.29,20
+552,47,Road,Africa,500.35,4
+553,40,Sea,South America,763.36,13
+554,33,Sea,South America,862.81,24
+555,32,Sea,Europe,3189.07,29
+556,7,Road,North America,3703.53,16
+557,19,Road,Europe,4312.26,6
+558,34,Road,Europe,4709.12,26
+559,14,Road,South America,1088.35,8
+560,50,Rail,Asia,1617.89,16
+561,47,Sea,North America,1277.58,13
+562,46,Rail,South America,1857.93,23
+563,19,Sea,Europe,4581.86,29
+564,26,Road,Asia,2918.05,26
+565,17,Road,North America,3717.14,4
+566,28,Rail,Africa,2501.58,2
+567,19,Air,North America,241.4,9
+568,27,Road,North America,414.56,18
+569,48,Air,Europe,2735.82,17
+570,19,Sea,Europe,3622.07,8
+571,33,Rail,Africa,1155.12,26
+572,7,Air,Africa,3637.36,15
+573,29,Air,Africa,4072.26,9
+574,43,Road,South America,2118.3,17
+575,5,Air,South America,3757.45,23
+576,30,Air,Europe,2079.75,2
+577,49,Sea,Europe,3423.92,6
+578,43,Rail,Africa,3843.59,29
+579,8,Road,South America,4960.44,27
+580,42,Road,Asia,1792.44,5
+581,12,Air,South America,2114.1,17
+582,42,Sea,Europe,911.54,2
+583,13,Air,South America,1099.96,18
+584,26,Air,Europe,3497.64,10
+585,18,Road,Africa,4593.52,10
+586,42,Air,Africa,2033.56,6
+587,49,Air,Africa,981.24,27
+588,20,Sea,Asia,1496.99,12
+589,16,Road,Asia,2329.75,17
+590,37,Rail,Europe,1524.19,27
+591,3,Sea,North America,1244.54,13
+592,27,Sea,Asia,3706.32,20
+593,15,Sea,Europe,138.44,28
+594,34,Road,South America,2742.23,16
+595,45,Air,Africa,3989.46,10
+596,22,Rail,Africa,1404.52,27
+597,40,Road,Africa,3056.13,21
+598,23,Air,Europe,3377.61,2
+599,49,Sea,Africa,3309.62,2
+600,4,Road,Asia,2284.66,23
+601,41,Air,South America,1798.23,7
+602,23,Rail,Africa,4196.03,6
+603,47,Rail,Europe,3816.39,1
+604,9,Air,South America,1674.15,12
+605,24,Road,Africa,604.79,13
+606,21,Sea,North America,451.86,12
+607,41,Air,Africa,561.95,19
+608,46,Sea,Asia,2956.06,9
+609,16,Rail,South America,353.14,10
+610,25,Air,Asia,1750.94,17
+611,26,Rail,North America,3790.68,18
+612,49,Sea,North America,1542.31,8
+613,45,Sea,Asia,3840.21,7
+614,9,Air,South America,3752.79,9
+615,15,Air,North America,1304.55,10
+616,39,Air,North America,3671.23,12
+617,33,Rail,Africa,3764.11,15
+618,1,Sea,Europe,2047.52,15
+619,5,Sea,North America,1131.06,28
+620,9,Rail,South America,2654.23,4
+621,44,Air,South America,4614.85,4
+622,6,Road,Africa,3234.12,23
+623,28,Air,South America,947.32,1
+624,45,Road,Africa,3445.51,26
+625,26,Road,North America,2193.29,12
+626,28,Rail,North America,2998.49,25
+627,40,Sea,North America,3696.91,2
+628,15,Sea,North America,2623.24,15
+629,6,Sea,Europe,4088.52,17
+630,27,Sea,Europe,3638.56,7
+631,38,Rail,North America,3113.86,6
+632,4,Road,South America,838.88,12
+633,11,Sea,Africa,4196.15,19
+634,21,Road,Asia,4685.94,1
+635,30,Rail,Africa,771.13,28
+636,18,Air,Asia,2492.38,21
+637,35,Rail,Asia,1368.55,26
+638,3,Sea,North America,3797.16,14
+639,12,Air,Asia,3635.99,4
+640,27,Rail,North America,790.34,5
+641,30,Rail,Europe,4397.43,1
+642,21,Road,South America,986.77,1
+643,38,Rail,Asia,4006.57,21
+644,21,Air,South America,2339.2,6
+645,38,Rail,North America,1708.53,5
+646,40,Sea,Asia,875.37,2
+647,15,Road,Africa,921.31,25
+648,18,Air,Europe,3343.26,21
+649,29,Air,Europe,2797.11,27
+650,48,Rail,Asia,698.22,27
+651,38,Sea,Europe,652.22,5
+652,21,Road,Africa,454.32,26
+653,17,Air,South America,3744.46,9
+654,41,Road,Africa,3588.22,19
+655,18,Rail,Europe,386.31,21
+656,37,Sea,South America,2845.32,15
+657,38,Rail,Africa,514.91,13
+658,12,Road,North America,4528.35,12
+659,11,Rail,North America,4544.88,5
+660,48,Road,South America,3521.34,2
+661,49,Air,South America,4638.33,27
+662,20,Air,South America,4076.12,4
+663,9,Rail,North America,4159.84,27
+664,1,Air,Africa,2891.57,27
+665,3,Road,South America,1599.69,18
+666,21,Air,North America,1167.22,21
+667,23,Sea,South America,1703.28,10
+668,9,Sea,South America,3179.63,13
+669,19,Rail,South America,946.02,12
+670,45,Rail,North America,1367.34,2
+671,46,Rail,Africa,2393.5,26
+672,19,Rail,North America,1241.95,15
+673,23,Road,North America,2984.35,14
+674,27,Road,South America,4623.56,25
+675,27,Sea,Asia,3765.64,10
+676,39,Road,Asia,3365.49,22
+677,36,Air,Asia,2955.34,8
+678,12,Sea,North America,2490.94,25
+679,27,Rail,South America,1014.16,15
+680,46,Rail,Asia,4484.08,13
+681,34,Road,Europe,1317.83,8
+682,33,Sea,Europe,547.41,21
+683,28,Road,Europe,3775.07,21
+684,31,Road,Africa,960.52,22
+685,32,Road,South America,1922.29,14
+686,50,Sea,North America,238.6,1
+687,20,Rail,North America,771.63,13
+688,40,Air,South America,948.7,27
+689,35,Rail,Africa,366.61,8
+690,31,Sea,South America,3317.62,18
+691,31,Rail,Africa,4201.34,22
+692,38,Rail,Asia,1929.25,9
+693,22,Air,Asia,4385.42,13
+694,45,Rail,Africa,1145.4,3
+695,41,Rail,South America,1694.41,18
+696,9,Rail,Asia,838.61,10
+697,9,Road,South America,3140.74,5
+698,15,Sea,Asia,2157.36,27
+699,13,Sea,South America,3105.09,25
+700,22,Air,South America,3832.21,6
+701,16,Road,Europe,2773.94,8
+702,32,Road,Africa,3175.39,24
+703,2,Rail,North America,4682.73,7
+704,26,Sea,Africa,1565.42,21
+705,14,Air,South America,1859.9,18
+706,38,Road,South America,3616.75,14
+707,34,Rail,Africa,3095.4,15
+708,8,Air,South America,974.81,10
+709,36,Road,Asia,1943.12,26
+710,21,Air,South America,2392.41,21
+711,46,Road,Africa,2155.01,12
+712,43,Air,Africa,973.55,7
+713,28,Road,Africa,4629.71,28
+714,46,Road,Europe,3835.36,28
+715,44,Air,Europe,2458.64,7
+716,48,Road,Europe,3432.3,11
+717,6,Road,Europe,4496.69,13
+718,20,Road,Europe,767.25,15
+719,31,Air,Europe,1326.83,18
+720,33,Air,Europe,2759.24,7
+721,44,Road,Africa,4015.15,6
+722,7,Road,North America,277.65,23
+723,8,Air,Europe,4921.69,11
+724,9,Rail,Africa,2329.04,8
+725,2,Road,North America,1860.23,20
+726,17,Rail,Europe,1534.35,1
+727,45,Air,North America,954.35,8
+728,37,Road,North America,3978.71,8
+729,42,Rail,Asia,4781.53,19
+730,44,Air,South America,2126.86,3
+731,17,Rail,Asia,4766.86,5
+732,38,Sea,North America,4136.61,3
+733,35,Air,Africa,2457.15,15
+734,47,Sea,Europe,3402.73,14
+735,39,Air,South America,2231.42,21
+736,30,Air,Europe,2837.74,15
+737,6,Road,Africa,384.43,24
+738,4,Sea,South America,3511.69,17
+739,37,Sea,Asia,358.84,18
+740,35,Sea,North America,4103.72,2
+741,9,Air,Africa,4142.24,12
+742,6,Sea,North America,1261.68,16
+743,13,Sea,North America,1685.95,4
+744,22,Road,Europe,2458.42,25
+745,28,Rail,Africa,3023.65,2
+746,30,Rail,North America,1508.03,28
+747,36,Sea,Asia,3003.18,14
+748,2,Sea,South America,1559.16,11
+749,36,Sea,Africa,371.9,13
+750,8,Sea,Europe,112.38,28
+751,45,Rail,Africa,595.64,25
+752,42,Road,Europe,3982.03,7
+753,50,Air,South America,4811.01,10
+754,9,Sea,Asia,2192.13,24
+755,1,Sea,North America,2612.15,1
+756,13,Rail,Africa,819.56,29
+757,50,Sea,Europe,2800.05,21
+758,15,Road,South America,808.81,25
+759,32,Road,North America,3094.95,28
+760,34,Sea,South America,4672.97,4
+761,43,Rail,Asia,1058.92,18
+762,31,Sea,North America,3846.36,6
+763,14,Sea,North America,215.16,2
+764,47,Rail,North America,1939.94,3
+765,14,Road,Europe,642.67,14
+766,48,Air,North America,1827.13,8
+767,29,Sea,South America,950.33,16
+768,47,Road,Europe,1929.19,19
+769,19,Sea,North America,2145.86,18
+770,27,Air,South America,1572.9,6
+771,9,Rail,South America,3317.45,14
+772,37,Road,Africa,4602.38,3
+773,37,Air,South America,2062.92,16
+774,43,Sea,Asia,1042.48,1
+775,28,Air,North America,1426.54,12
+776,24,Road,North America,4284.6,14
+777,28,Rail,North America,2901.03,19
+778,36,Sea,South America,2329.55,22
+779,18,Rail,South America,833.22,19
+780,25,Rail,North America,2303.66,9
+781,35,Air,Europe,1464.61,7
+782,4,Air,Europe,4721.5,14
+783,14,Road,Asia,4431.94,5
+784,39,Road,Africa,511.12,18
+785,26,Rail,Asia,2631.6,9
+786,8,Road,North America,1202.79,21
+787,24,Rail,North America,2112.81,7
+788,16,Sea,North America,4396.56,9
+789,20,Rail,Africa,2684.82,4
+790,15,Road,South America,1737.65,25
+791,7,Road,Africa,1118.65,17
+792,17,Rail,Asia,4021.59,12
+793,22,Air,South America,3160.14,6
+794,22,Rail,South America,2393.52,18
+795,12,Rail,Asia,1165.67,8
+796,18,Air,South America,1737.81,21
+797,46,Sea,Europe,4803.23,15
+798,47,Air,Asia,2648.44,3
+799,15,Road,Asia,2063.43,2
+800,37,Air,Europe,2654.97,24
+801,16,Road,Africa,3917.04,23
+802,5,Road,Africa,1766.53,9
+803,2,Rail,Africa,975.66,8
+804,28,Rail,South America,2966.19,27
+805,41,Sea,Europe,3359.5,4
+806,27,Road,Asia,3592.32,2
+807,31,Rail,Asia,4421.74,14
+808,41,Road,Asia,1918.75,29
+809,36,Sea,South America,469.24,2
+810,47,Road,South America,4795.91,2
+811,43,Sea,Africa,2231.56,27
+812,1,Sea,South America,3153.96,28
+813,50,Sea,Africa,3364.9,22
+814,29,Rail,Africa,2777.92,7
+815,1,Air,Asia,1105.76,12
+816,8,Air,South America,3800.2,6
+817,16,Rail,Africa,4038.38,18
+818,28,Road,Europe,2809.58,4
+819,22,Rail,Europe,2493.95,19
+820,18,Road,South America,658.3,27
+821,22,Sea,Asia,511.36,13
+822,41,Rail,Asia,1763.87,20
+823,12,Air,Africa,1623.15,21
+824,19,Road,South America,4772.92,23
+825,25,Rail,Europe,3939.75,25
+826,50,Rail,Africa,3333.63,27
+827,5,Road,Africa,2636.48,2
+828,34,Sea,North America,920.1,8
+829,39,Sea,South America,4894.44,19
+830,10,Sea,Africa,1937.7,9
+831,47,Sea,Europe,623.94,26
+832,7,Road,North America,2519.61,28
+833,37,Air,Europe,4382.59,4
+834,47,Rail,Asia,4447.73,16
+835,15,Rail,North America,153.73,19
+836,42,Sea,North America,4442.85,10
+837,24,Road,Africa,1430.27,6
+838,26,Air,Asia,290.96,16
+839,26,Air,Africa,4254.17,10
+840,46,Rail,South America,4332.95,13
+841,26,Sea,Europe,3021.53,9
+842,10,Rail,Europe,2914.73,7
+843,17,Rail,Africa,4084.29,4
+844,14,Air,Europe,3952.92,19
+845,2,Road,Europe,4461.52,26
+846,48,Air,South America,2808.46,4
+847,13,Rail,Asia,4841.47,19
+848,27,Sea,North America,4981.12,28
+849,9,Sea,Africa,671.07,19
+850,7,Road,Africa,4262.76,12
+851,48,Road,South America,2549.13,13
+852,10,Road,South America,1999.08,25
+853,9,Rail,North America,3104.05,4
+854,22,Rail,Asia,374.23,25
+855,23,Road,Africa,2581.66,28
+856,7,Sea,South America,4367.36,10
+857,48,Sea,Africa,1145.96,21
+858,9,Sea,Europe,2189.31,7
+859,27,Rail,Africa,4703.46,5
+860,24,Air,Asia,2199.96,17
+861,29,Sea,Asia,1856.0,18
+862,17,Sea,Africa,2258.63,11
+863,20,Sea,Europe,2645.32,15
+864,7,Road,Asia,3196.76,21
+865,43,Rail,South America,4023.39,22
+866,40,Road,Africa,2315.3,7
+867,7,Road,Europe,4105.66,18
+868,28,Air,South America,2715.23,26
+869,19,Road,Africa,1758.55,25
+870,20,Air,Europe,3323.96,6
+871,44,Road,South America,3616.84,18
+872,39,Sea,Asia,2834.44,16
+873,40,Rail,Africa,377.41,2
+874,7,Road,Africa,932.43,19
+875,6,Air,Asia,1497.96,1
+876,25,Rail,North America,1484.87,25
+877,41,Air,South America,3399.76,26
+878,13,Sea,Asia,189.91,11
+879,39,Road,Africa,3802.84,20
+880,40,Rail,South America,1400.18,5
+881,22,Sea,South America,1619.11,16
+882,49,Road,North America,2686.76,23
+883,17,Road,Africa,1158.04,1
+884,48,Air,Europe,4433.91,19
+885,22,Air,North America,518.31,14
+886,34,Sea,North America,2277.47,3
+887,8,Air,Europe,4262.17,2
+888,49,Sea,Europe,3117.64,24
+889,45,Sea,North America,1532.41,5
+890,18,Sea,South America,2161.73,17
+891,24,Air,Asia,3562.8,28
+892,42,Rail,Asia,4868.98,18
+893,2,Sea,North America,4476.38,1
+894,2,Rail,South America,1777.92,15
+895,27,Road,Europe,4991.17,22
+896,14,Air,North America,117.17,9
+897,48,Air,Africa,235.39,27
+898,39,Rail,South America,4136.82,23
+899,12,Road,Africa,1077.37,5
+900,32,Road,Africa,397.77,28
+901,28,Sea,North America,1262.03,13
+902,28,Air,South America,2187.89,19
+903,46,Road,Africa,3679.77,28
+904,25,Road,South America,3159.24,28
+905,4,Sea,Asia,1264.34,24
+906,26,Sea,Africa,2566.03,10
+907,36,Rail,Africa,4638.45,20
+908,50,Air,South America,4093.54,25
+909,3,Road,Asia,1683.63,21
+910,1,Rail,Africa,4913.1,14
+911,17,Air,North America,3572.24,22
+912,7,Rail,South America,406.0,21
+913,48,Air,South America,272.29,26
+914,5,Air,Africa,925.2,12
+915,19,Road,Asia,3666.49,11
+916,39,Air,Africa,1000.32,23
+917,46,Sea,Europe,2606.29,7
+918,34,Road,Africa,556.97,17
+919,35,Sea,Europe,4612.34,18
+920,49,Rail,North America,1785.41,7
+921,16,Rail,South America,4549.85,24
+922,40,Air,South America,4729.89,20
+923,50,Air,Asia,130.03,6
+924,47,Sea,Africa,2374.26,11
+925,39,Sea,North America,220.81,12
+926,27,Sea,Europe,4552.59,26
+927,41,Rail,Asia,2640.2,16
+928,38,Sea,North America,467.23,19
+929,50,Road,North America,640.36,23
+930,50,Road,Europe,1979.19,27
+931,25,Rail,Europe,4707.15,19
+932,26,Sea,South America,3495.25,11
+933,14,Sea,Africa,4351.33,16
+934,14,Air,Asia,1895.64,23
+935,14,Road,Africa,311.75,28
+936,25,Rail,Asia,4874.16,27
+937,36,Sea,North America,184.15,12
+938,4,Air,Europe,4743.49,27
+939,47,Rail,Europe,1906.52,8
+940,15,Rail,North America,149.44,3
+941,32,Road,North America,3476.87,2
+942,18,Sea,Asia,4904.65,28
+943,14,Rail,North America,4831.57,6
+944,1,Air,Asia,888.59,16
+945,42,Air,Africa,988.11,20
+946,20,Rail,Europe,2871.14,24
+947,10,Air,Europe,3222.79,29
+948,10,Rail,Europe,3723.15,15
+949,24,Air,Africa,987.15,14
+950,34,Rail,Africa,4799.13,2
+951,28,Rail,South America,3229.82,20
+952,27,Rail,Asia,4250.53,18
+953,40,Air,Asia,2746.32,14
+954,1,Rail,South America,2129.96,18
+955,33,Road,Europe,4888.2,2
+956,4,Rail,Asia,2952.39,1
+957,7,Sea,Asia,4347.68,20
+958,9,Sea,Europe,4771.13,2
+959,16,Road,North America,3409.24,9
+960,5,Rail,North America,2789.8,9
+961,34,Sea,South America,117.2,16
+962,23,Rail,Africa,296.1,11
+963,43,Sea,Asia,1084.17,27
+964,50,Air,Asia,1011.44,23
+965,25,Air,South America,1348.32,6
+966,13,Road,South America,1594.18,12
+967,24,Road,Asia,1864.32,3
+968,11,Rail,Europe,2160.63,12
+969,17,Road,Europe,584.45,23
+970,37,Rail,Africa,307.57,1
+971,13,Air,Asia,3402.33,9
+972,27,Air,Asia,2732.94,20
+973,20,Sea,Asia,2276.31,22
+974,33,Rail,Asia,3208.76,6
+975,42,Air,South America,4155.63,11
+976,32,Air,North America,2195.7,3
+977,8,Rail,Asia,3241.49,4
+978,29,Sea,North America,4772.5,29
+979,40,Sea,Europe,4214.16,27
+980,19,Sea,Africa,2187.4,10
+981,6,Sea,Europe,3259.11,19
+982,44,Air,Asia,967.65,29
+983,39,Rail,Europe,2846.56,6
+984,48,Rail,South America,4908.51,1
+985,41,Air,North America,2639.74,8
+986,21,Air,Asia,4645.43,8
+987,22,Air,South America,2095.94,25
+988,42,Road,North America,4994.34,6
+989,10,Rail,South America,2938.18,17
+990,10,Rail,Europe,307.12,19
+991,29,Rail,Asia,2975.1,1
+992,16,Sea,Europe,1445.41,15
+993,1,Air,Africa,259.16,13
+994,17,Air,Asia,4122.18,21
+995,30,Air,Europe,1451.08,3
+996,26,Road,Asia,4003.09,2
+997,46,Rail,North America,1512.27,3
+998,19,Air,Asia,1052.2,9
+999,21,Road,Asia,4872.28,27
+1000,17,Air,North America,1872.06,16

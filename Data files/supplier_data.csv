@@ -1,0 +1,1001 @@
+SupplierID,SupplierName,Region,Industry,Rating,AnnualSpendUSD,OnTimeDeliveryRate,DefectRate,SupplierSince
+1,Summit Exports,Asia,Chemicals,3,258091,99.77,4.36,2005
+2,Phoenix Products,Europe,Chemicals,4,332762,80.5,3.93,2020
+3,Vanguard Supplies,South America,Food,5,269064,85.05,1.37,2007
+4,Apollo Supplies,North America,Automotive,5,111121,90.4,4.56,2018
+5,Summit Components,Africa,Chemicals,5,475435,90.44,0.49,2021
+6,Beta Solutions,Europe,Textiles,4,81872,91.78,4.27,2020
+7,Summit Exports,North America,Chemicals,5,348276,95.03,1.64,2019
+8,Cascade Traders,Europe,Textiles,1,269237,92.47,0.27,2007
+9,Delta Logistics,Asia,Food,5,280049,92.01,3.35,2013
+10,Velocity Ventures,Africa,Chemicals,2,126759,81.07,1.16,2017
+11,Velocity Ventures,North America,Textiles,4,422567,87.53,1.22,2015
+12,Zeta Corp,North America,Food,2,298125,84.64,1.53,2008
+13,Momentum Goods,North America,Automotive,5,341047,85.31,0.32,2014
+14,Nexus Components,North America,Textiles,1,337965,91.09,0.89,2009
+15,Zeta Corp,North America,Automotive,3,376344,83.99,0.03,2021
+16,Elite Manufacturing,Europe,Automotive,5,87289,85.88,2.23,2015
+17,Gamma Industries,Africa,Electronics,1,121506,84.74,0.42,2003
+18,Global Supplies,Asia,Chemicals,4,482237,98.97,3.41,2019
+19,Zeta Corp,Asia,Textiles,2,83513,98.89,1.18,2012
+20,Stellar Goods,Asia,Automotive,2,418090,92.2,4.72,2021
+21,Titan Ventures,Asia,Electronics,2,187003,98.49,4.36,2004
+22,Vision Logistics,Europe,Food,4,405890,95.72,1.45,2021
+23,Global Supplies,South America,Textiles,1,317660,91.8,3.92,2006
+24,Beta Solutions,Africa,Automotive,4,264480,80.13,4.02,2022
+25,Cosmos Distributors,North America,Chemicals,2,267043,95.45,4.93,2008
+26,Fusion Industries,South America,Electronics,5,492790,94.05,2.99,2007
+27,Gamma Industries,Asia,Automotive,3,196758,92.31,0.41,2015
+28,Stellar Goods,South America,Chemicals,4,493067,95.21,3.23,2005
+29,Omni Supplies,Africa,Automotive,4,336356,90.26,3.12,2015
+30,Synergy Co.,North America,Textiles,1,138498,94.08,3.19,2005
+31,Helix Industries,North America,Textiles,1,259024,98.7,1.54,2013
+32,Genesis Materials,Africa,Textiles,4,135970,87.52,4.3,2020
+33,Nova Exports,Africa,Electronics,2,95009,94.16,4.8,2000
+34,Vanguard Supplies,Asia,Textiles,3,204570,89.51,1.09,2008
+35,Stellar Goods,North America,Chemicals,1,428159,93.49,0.44,2012
+36,Elite Manufacturing,South America,Automotive,2,202467,95.26,0.97,2018
+37,Prime Horizons,Europe,Food,5,49816,80.91,4.1,2016
+38,Quantum Materials,Europe,Chemicals,1,9138,92.93,3.38,2010
+39,Beta Solutions,Africa,Chemicals,2,498944,84.53,3.18,2007
+40,Pinnacle Products,Asia,Textiles,2,96176,93.4,2.01,2022
+41,Summit Exports,Europe,Electronics,3,343089,89.37,2.89,2004
+42,Horizon Distributors,North America,Automotive,3,271161,95.47,1.54,2009
+43,Universal Traders,Africa,Electronics,5,277595,82.47,2.39,2006
+44,Omni Supplies,South America,Automotive,2,199028,92.53,3.97,2009
+45,Silverline Co.,Africa,Automotive,2,361007,85.57,4.91,2003
+46,Pinnacle Products,South America,Electronics,3,277422,97.06,4.66,2008
+47,Infinity Goods,Africa,Chemicals,1,226552,98.57,4.67,2013
+48,Global Supplies,Africa,Automotive,1,48764,99.93,2.01,2001
+49,Alpha Resources,Africa,Electronics,4,128030,95.92,2.34,2008
+50,Genesis Materials,South America,Automotive,3,399350,95.07,3.53,2020
+51,Quantum Materials,South America,Food,4,330087,84.31,4.61,2000
+52,Stellar Goods,Africa,Chemicals,3,100667,86.72,0.71,2022
+53,Summit Components,Europe,Textiles,5,321462,89.31,1.52,2009
+54,Legacy Supplies,Asia,Automotive,2,370567,95.47,0.7,2009
+55,Silverline Co.,Asia,Food,5,371142,98.3,3.06,2019
+56,Everest Goods,Asia,Textiles,3,65128,83.78,1.53,2021
+57,Momentum Goods,South America,Textiles,2,224128,98.45,1.63,2002
+58,Nexus Components,South America,Automotive,1,289013,93.91,0.35,2005
+59,Universal Traders,Europe,Electronics,1,238540,92.22,1.75,2005
+60,Global Supplies,Asia,Automotive,4,10039,84.0,4.31,2020
+61,Prime Distributors,Asia,Food,3,157353,81.11,1.17,2001
+62,Helix Industries,Africa,Textiles,3,117935,91.37,3.48,2017
+63,Universal Traders,South America,Automotive,1,15442,93.03,3.15,2022
+64,Phoenix Products,Asia,Electronics,5,340932,84.22,4.32,2001
+65,Horizon Distributors,Europe,Automotive,2,386873,91.13,0.66,2011
+66,Infinity Goods,Europe,Chemicals,5,294730,97.13,4.89,2021
+67,Stellar Goods,Asia,Electronics,5,58053,96.7,2.91,2004
+68,Echo Materials,South America,Food,1,186561,98.55,4.98,2019
+69,Apex Solutions,Europe,Textiles,1,219176,87.32,4.56,2006
+70,Momentum Goods,Africa,Automotive,1,91346,86.36,1.11,2015
+71,Silverline Co.,Europe,Electronics,4,334231,94.99,0.28,2019
+72,Atlas Components,North America,Chemicals,5,410841,88.62,1.28,2000
+73,Vanguard Supplies,North America,Electronics,3,39397,81.75,2.64,2000
+74,Summit Components,South America,Chemicals,2,325815,85.66,0.86,2016
+75,Silverline Co.,Asia,Food,4,121214,88.37,0.84,2000
+76,Delta Logistics,South America,Textiles,3,490001,85.85,2.31,2020
+77,Nexus Components,South America,Food,5,334041,86.64,0.17,2019
+78,Beta Solutions,South America,Automotive,1,162221,85.88,0.61,2012
+79,Nova Exports,South America,Electronics,5,458246,80.83,2.08,2008
+80,Zenith Distributors,Africa,Chemicals,2,468122,92.74,0.32,2014
+81,Horizon Distributors,Africa,Chemicals,4,403499,91.95,1.98,2002
+82,Zeta Corp,Europe,Electronics,4,405826,93.07,2.37,2013
+83,Infinity Goods,North America,Electronics,2,441542,83.85,2.26,2022
+84,Omni Supplies,South America,Automotive,3,282068,85.91,4.35,2010
+85,Zenith Distributors,Europe,Food,3,118143,92.39,2.65,2021
+86,Pioneer Products,North America,Chemicals,4,377397,91.99,2.34,2011
+87,Phoenix Products,Asia,Automotive,4,474378,90.13,2.05,2012
+88,Vanguard Supplies,Africa,Food,1,367441,87.01,4.09,2012
+89,Zenith Distributors,North America,Automotive,3,268013,98.26,4.48,2000
+90,Acme Corp,Asia,Chemicals,2,364232,86.8,4.27,2009
+91,Omni Supplies,North America,Electronics,3,268158,89.11,3.37,2002
+92,Quantum Materials,Africa,Electronics,1,15103,93.56,0.69,2003
+93,Pinnacle Products,Africa,Food,4,480738,90.86,1.38,2015
+94,Zeta Corp,Europe,Textiles,4,377461,86.94,0.23,2007
+95,Acme Corp,South America,Food,1,494223,88.71,4.65,2015
+96,Stellar Goods,North America,Textiles,2,431674,95.89,3.3,2016
+97,Summit Components,North America,Automotive,4,488821,85.56,3.73,2018
+98,Zeta Corp,Asia,Automotive,5,87409,82.85,1.56,2021
+99,Velocity Ventures,Africa,Chemicals,4,28248,86.26,4.23,2014
+100,Everest Goods,North America,Textiles,5,487376,96.99,1.3,2015
+101,Summit Components,Africa,Chemicals,1,179588,81.78,0.01,2014
+102,Legacy Supplies,North America,Electronics,1,427277,99.83,1.88,2001
+103,Legacy Supplies,Europe,Textiles,4,160242,90.82,2.85,2010
+104,Cosmos Distributors,South America,Food,3,13024,99.7,2.39,2000
+105,NextGen Logistics,North America,Electronics,5,480430,98.78,4.31,2014
+106,Helix Industries,Africa,Electronics,2,239864,89.06,0.53,2018
+107,Summit Exports,Europe,Food,4,353091,83.97,2.77,2003
+108,Pioneer Products,North America,Electronics,2,179875,83.3,2.56,2010
+109,Genesis Materials,Asia,Textiles,4,417512,84.8,1.41,2004
+110,Quantum Materials,South America,Chemicals,3,358973,94.2,4.11,2002
+111,Pinnacle Products,North America,Electronics,3,359852,85.46,3.76,2012
+112,Summit Components,Europe,Textiles,3,353808,86.83,3.66,2009
+113,Fusion Industries,Asia,Automotive,3,416473,88.98,4.38,2010
+114,Echo Materials,Europe,Textiles,1,148927,98.26,3.61,2017
+115,Cosmos Distributors,Europe,Chemicals,1,90178,83.79,1.16,2001
+116,Delta Logistics,Asia,Textiles,5,368265,80.1,3.53,2006
+117,Zeta Corp,Europe,Food,2,287169,81.2,1.54,2008
+118,Prime Horizons,Asia,Chemicals,4,402674,98.1,1.21,2009
+119,Legacy Supplies,North America,Automotive,4,68610,92.95,0.37,2017
+120,Stellar Goods,Asia,Food,1,75843,85.46,3.72,2022
+121,Nexus Components,Asia,Textiles,4,112237,83.54,3.56,2006
+122,Gamma Industries,South America,Chemicals,1,482177,85.89,1.17,2006
+123,Synergy Co.,Asia,Automotive,5,185903,82.3,3.75,2002
+124,Legacy Supplies,Asia,Food,2,179499,98.83,4.59,2011
+125,Acme Corp,North America,Automotive,5,492025,95.68,0.54,2006
+126,Legacy Supplies,South America,Textiles,3,135299,89.25,1.16,2016
+127,Prime Horizons,Africa,Automotive,3,436722,97.3,3.75,2000
+128,Silverline Co.,North America,Electronics,3,10668,84.99,1.37,2004
+129,Elite Manufacturing,North America,Food,5,227542,94.34,3.12,2015
+130,Acme Corp,Africa,Automotive,4,183267,97.12,0.41,2014
+131,NextGen Logistics,Asia,Textiles,2,340377,87.14,2.26,2001
+132,Infinity Goods,Europe,Textiles,3,160489,95.15,3.7,2008
+133,Silverline Co.,South America,Automotive,3,349126,85.9,3.43,2006
+134,Summit Exports,Europe,Textiles,3,111133,85.98,4.08,2003
+135,Synergy Co.,Africa,Chemicals,2,277895,82.14,4.39,2019
+136,Pinnacle Products,North America,Chemicals,3,313362,88.8,3.87,2017
+137,Vanguard Supplies,North America,Chemicals,2,393793,94.59,3.36,2020
+138,Vanguard Supplies,South America,Electronics,3,274496,98.8,0.16,2003
+139,Infinity Goods,North America,Automotive,5,215124,92.08,2.67,2012
+140,Helix Industries,North America,Electronics,5,93835,97.26,0.19,2000
+141,Eagle Enterprises,South America,Textiles,2,102493,96.45,4.04,2002
+142,Orion Enterprises,South America,Electronics,5,296071,83.47,1.6,2015
+143,Summit Exports,Africa,Textiles,2,177166,89.72,2.81,2021
+144,Orion Enterprises,North America,Textiles,5,106948,82.34,1.4,2003
+145,Universal Traders,North America,Food,5,190194,93.64,3.91,2022
+146,Titan Ventures,Africa,Chemicals,2,34493,99.0,4.43,2015
+147,Prime Horizons,Asia,Textiles,4,490463,82.74,1.99,2018
+148,Delta Logistics,Asia,Food,5,471755,94.68,4.31,2000
+149,Summit Exports,Asia,Chemicals,3,298851,92.64,1.34,2004
+150,Zenith Distributors,Africa,Textiles,4,204886,91.67,2.67,2018
+151,Vanguard Supplies,North America,Textiles,2,143368,87.8,4.29,2021
+152,Apollo Supplies,Africa,Electronics,4,161470,87.1,1.63,2010
+153,Phoenix Products,Africa,Electronics,1,302986,80.9,4.77,2012
+154,Momentum Goods,Asia,Chemicals,1,18261,84.36,0.61,2019
+155,Eagle Enterprises,Europe,Textiles,5,81709,80.3,0.09,2004
+156,Orion Enterprises,North America,Automotive,5,100985,91.63,4.52,2020
+157,Quantum Materials,Asia,Electronics,3,373760,82.12,0.34,2003
+158,Gamma Industries,Europe,Chemicals,4,454920,97.46,4.96,2003
+159,Genesis Materials,Europe,Textiles,1,334317,90.46,4.76,2003
+160,Global Supplies,South America,Textiles,5,298925,93.99,0.69,2003
+161,Helix Industries,North America,Automotive,4,280796,88.22,2.69,2019
+162,Zenith Distributors,Europe,Chemicals,5,272247,91.21,0.92,2020
+163,Prime Distributors,Asia,Textiles,5,292644,98.85,2.14,2017
+164,Genesis Materials,South America,Electronics,1,251404,81.65,0.31,2017
+165,Genesis Materials,North America,Automotive,1,105336,85.08,1.12,2015
+166,Stellar Goods,Africa,Chemicals,5,433745,95.6,1.82,2008
+167,Stellar Goods,Asia,Automotive,2,118499,81.97,2.19,2017
+168,Alpha Resources,Europe,Electronics,5,154524,81.51,4.89,2021
+169,Titan Ventures,Europe,Chemicals,5,316537,87.23,4.04,2001
+170,Velocity Ventures,Asia,Automotive,3,429390,81.84,3.69,2020
+171,Genesis Materials,Europe,Food,3,462666,91.7,2.69,2003
+172,Omni Supplies,South America,Electronics,3,171508,84.53,4.2,2011
+173,Summit Exports,North America,Electronics,2,314550,97.91,1.7,2006
+174,Cosmos Distributors,South America,Electronics,2,330203,95.67,3.54,2014
+175,Acme Corp,Europe,Food,5,152026,93.99,4.97,2006
+176,Synergy Co.,Africa,Food,3,349866,92.34,1.57,2021
+177,Eagle Enterprises,North America,Textiles,2,255819,97.27,3.37,2020
+178,Pioneer Products,North America,Automotive,1,17356,84.46,4.22,2016
+179,Elite Manufacturing,Asia,Textiles,5,133128,97.46,4.58,2015
+180,Summit Exports,Asia,Automotive,4,496715,95.79,3.59,2018
+181,Prime Distributors,Africa,Food,5,7187,94.96,1.42,2008
+182,Summit Components,North America,Food,4,344387,91.23,1.63,2013
+183,Synergy Co.,Africa,Textiles,3,302242,84.92,0.1,2016
+184,Pinnacle Products,Asia,Chemicals,4,490687,88.47,3.8,2004
+185,Prime Horizons,Asia,Textiles,3,157297,95.87,0.21,2001
+186,Cosmos Distributors,North America,Automotive,1,139678,80.64,4.32,2019
+187,Helix Industries,South America,Textiles,4,324764,95.64,0.59,2015
+188,Stellar Goods,Europe,Electronics,5,431044,84.8,0.86,2013
+189,Zeta Corp,Asia,Automotive,3,131270,82.89,2.38,2013
+190,Vanguard Supplies,Asia,Automotive,5,424705,82.31,3.69,2000
+191,Orion Enterprises,South America,Chemicals,2,281531,80.55,0.7,2002
+192,Orion Enterprises,South America,Food,3,336607,90.47,2.2,2006
+193,Zeta Corp,Africa,Automotive,4,470048,84.37,2.41,2014
+194,Pioneer Products,Africa,Food,3,494196,99.79,1.06,2018
+195,Fusion Industries,Europe,Textiles,5,247998,91.49,0.58,2019
+196,Summit Exports,Europe,Electronics,1,400807,82.76,4.18,2001
+197,Global Supplies,North America,Chemicals,3,246503,93.78,2.51,2018
+198,Elite Manufacturing,Africa,Food,4,446732,97.95,0.07,2008
+199,Prime Horizons,Asia,Automotive,2,358827,94.9,4.01,2018
+200,Everest Goods,Africa,Food,1,67061,81.53,4.9,2004
+201,Global Supplies,Asia,Automotive,2,240497,97.92,3.03,2017
+202,Global Supplies,South America,Food,3,464952,95.88,2.52,2015
+203,Genesis Materials,Africa,Automotive,5,86257,83.17,4.39,2003
+204,Delta Logistics,South America,Textiles,5,66753,81.04,4.76,2011
+205,Prime Horizons,Europe,Automotive,4,351918,91.15,3.77,2006
+206,Orion Enterprises,Europe,Automotive,5,409303,83.12,2.23,2013
+207,Cosmos Distributors,North America,Electronics,1,429032,96.69,2.96,2022
+208,Acme Corp,Africa,Automotive,5,28408,87.17,3.5,2011
+209,Cascade Traders,South America,Electronics,4,129116,98.26,0.97,2002
+210,Global Supplies,Asia,Chemicals,3,136208,91.31,2.24,2004
+211,Stellar Goods,Europe,Electronics,3,22413,83.65,4.15,2016
+212,Infinity Goods,Europe,Textiles,5,118650,82.79,3.27,2009
+213,Orion Enterprises,Asia,Electronics,2,64500,91.53,2.06,2009
+214,Prime Distributors,South America,Chemicals,3,351658,95.24,3.32,2010
+215,Orion Enterprises,South America,Textiles,5,61358,95.63,0.59,2016
+216,Universal Traders,Africa,Food,4,71197,85.52,2.01,2004
+217,Velocity Ventures,Africa,Food,5,498992,84.08,3.97,2012
+218,Everest Goods,North America,Electronics,3,228861,80.34,1.1,2009
+219,Vision Logistics,Europe,Electronics,4,228492,93.58,0.93,2008
+220,Zeta Corp,Africa,Chemicals,5,266545,81.53,4.75,2016
+221,NextGen Logistics,South America,Chemicals,1,431070,88.42,1.05,2000
+222,Echo Materials,Asia,Automotive,4,81240,92.03,1.3,2003
+223,Prime Distributors,South America,Chemicals,1,240595,98.74,4.85,2003
+224,Gamma Industries,Europe,Automotive,2,226135,86.24,3.67,2017
+225,Velocity Ventures,South America,Textiles,4,283466,85.0,3.5,2008
+226,Nova Exports,North America,Electronics,1,380197,93.08,4.26,2017
+227,Cosmos Distributors,Europe,Textiles,3,11968,92.38,0.58,2013
+228,Pinnacle Products,Asia,Chemicals,3,294662,86.64,3.53,2014
+229,Prime Distributors,North America,Textiles,2,319069,98.56,2.52,2005
+230,Nova Exports,Europe,Textiles,4,195920,96.9,4.15,2009
+231,Phoenix Products,Asia,Textiles,4,379044,84.48,2.54,2014
+232,Elite Manufacturing,North America,Chemicals,4,360566,84.78,3.1,2003
+233,Alpha Resources,North America,Textiles,2,268844,90.25,2.39,2017
+234,Momentum Goods,Europe,Automotive,4,360926,95.47,2.39,2017
+235,Cascade Traders,Africa,Chemicals,3,237076,80.88,3.84,2016
+236,Infinity Goods,North America,Textiles,1,28199,93.87,3.14,2011
+237,Elite Manufacturing,North America,Chemicals,3,442805,92.96,3.17,2006
+238,Cascade Traders,Asia,Food,3,168187,84.63,2.25,2015
+239,Alpha Resources,South America,Automotive,1,460150,93.63,2.66,2010
+240,Orion Enterprises,Europe,Textiles,3,190388,98.8,3.73,2013
+241,Quantum Materials,Europe,Food,2,10520,80.94,4.13,2002
+242,Pioneer Products,Africa,Food,1,114814,86.39,3.48,2018
+243,Cosmos Distributors,Africa,Chemicals,3,172527,88.76,4.62,2017
+244,Nexus Components,Europe,Food,5,251356,97.99,4.1,2009
+245,Summit Exports,Africa,Automotive,3,484681,99.25,2.81,2005
+246,Horizon Distributors,Asia,Automotive,2,128364,88.88,3.36,2012
+247,Nexus Components,Europe,Electronics,4,439821,95.0,4.63,2009
+248,Acme Corp,Africa,Automotive,3,19955,90.63,3.1,2017
+249,Velocity Ventures,Europe,Food,4,180121,90.76,4.12,2019
+250,Genesis Materials,South America,Automotive,5,149989,85.56,3.44,2015
+251,Omni Supplies,North America,Chemicals,3,468509,84.34,2.76,2005
+252,Delta Logistics,Europe,Electronics,1,476797,85.76,1.21,2012
+253,Atlas Components,North America,Food,4,255144,91.13,2.13,2003
+254,Titan Ventures,Africa,Electronics,5,69925,80.58,4.84,2022
+255,Helix Industries,North America,Food,1,374360,98.14,3.29,2013
+256,Legacy Supplies,Europe,Chemicals,1,75269,83.13,2.82,2000
+257,Quantum Materials,South America,Electronics,1,429170,84.4,4.66,2019
+258,Nova Exports,Africa,Textiles,1,494887,90.37,2.93,2004
+259,Infinity Goods,Europe,Food,3,470833,94.2,2.63,2007
+260,Global Supplies,Africa,Textiles,3,308602,81.91,3.8,2011
+261,Acme Corp,Asia,Electronics,3,356181,86.35,3.56,2001
+262,Fusion Industries,North America,Textiles,5,157185,99.37,0.97,2011
+263,NextGen Logistics,Asia,Textiles,5,104977,85.25,2.36,2004
+264,Prime Horizons,Europe,Electronics,5,488442,86.26,2.36,2021
+265,Orion Enterprises,South America,Chemicals,2,311083,96.73,1.89,2004
+266,Pinnacle Products,Africa,Textiles,5,34345,81.0,2.59,2012
+267,Pioneer Products,North America,Textiles,3,260688,89.29,2.07,2008
+268,Legacy Supplies,Africa,Chemicals,3,444529,87.59,1.0,2009
+269,Cascade Traders,Europe,Textiles,2,377251,86.33,2.06,2000
+270,Nova Exports,Africa,Textiles,2,389010,85.71,0.36,2002
+271,Elite Manufacturing,North America,Textiles,5,490581,81.83,2.88,2017
+272,Alpha Resources,Europe,Automotive,4,266798,86.3,4.27,2011
+273,Zeta Corp,Africa,Chemicals,2,498814,80.86,3.63,2002
+274,Cosmos Distributors,South America,Textiles,1,336310,95.62,1.8,2008
+275,Zeta Corp,Europe,Chemicals,3,183933,87.96,0.44,2001
+276,Velocity Ventures,Europe,Food,1,102406,88.88,1.01,2002
+277,Summit Components,South America,Food,3,316442,97.87,2.73,2013
+278,Momentum Goods,Asia,Textiles,3,445437,93.16,1.04,2003
+279,Vision Logistics,North America,Chemicals,2,312086,80.16,2.72,2018
+280,Nexus Components,Asia,Chemicals,2,8453,98.86,1.16,2012
+281,Alpha Resources,Africa,Chemicals,1,107811,84.74,4.24,2006
+282,Legacy Supplies,South America,Automotive,3,59935,82.15,1.99,2011
+283,Omni Supplies,Asia,Food,1,389583,95.36,1.23,2002
+284,Legacy Supplies,Europe,Chemicals,4,179442,90.01,4.06,2022
+285,Omni Supplies,Africa,Chemicals,1,275472,88.68,1.71,2022
+286,Phoenix Products,Africa,Automotive,5,20534,84.99,0.56,2008
+287,Horizon Distributors,Asia,Automotive,1,352424,90.95,2.85,2001
+288,Horizon Distributors,Asia,Chemicals,5,483141,85.49,2.91,2021
+289,Global Supplies,South America,Electronics,5,41320,98.03,3.57,2008
+290,Legacy Supplies,North America,Chemicals,5,54170,84.3,1.2,2011
+291,Nova Exports,Asia,Chemicals,4,105546,97.69,2.22,2011
+292,Pioneer Products,Asia,Automotive,1,85201,91.19,1.41,2014
+293,Momentum Goods,Europe,Automotive,1,239473,96.57,0.4,2001
+294,Cosmos Distributors,Africa,Chemicals,4,275784,94.26,4.38,2017
+295,Universal Traders,North America,Chemicals,3,236324,93.93,3.64,2012
+296,Cosmos Distributors,Europe,Chemicals,2,489273,86.49,1.51,2013
+297,Silverline Co.,South America,Automotive,1,166121,84.68,3.0,2004
+298,Beta Solutions,South America,Chemicals,2,403834,84.22,1.01,2009
+299,Alpha Resources,Asia,Chemicals,4,238612,97.14,4.45,2011
+300,Summit Components,Asia,Textiles,3,192125,96.41,0.57,2009
+301,Quantum Materials,South America,Electronics,3,400136,88.81,0.02,2010
+302,Elite Manufacturing,Asia,Food,3,311081,82.65,2.51,2001
+303,Everest Goods,North America,Electronics,4,205796,87.65,2.92,2004
+304,Cosmos Distributors,Asia,Textiles,5,148279,92.39,2.89,2006
+305,Fusion Industries,Africa,Food,5,201846,89.09,0.27,2005
+306,Gamma Industries,Asia,Chemicals,2,169044,95.6,1.57,2021
+307,Gamma Industries,Europe,Textiles,5,409015,99.95,2.5,2022
+308,Titan Ventures,North America,Chemicals,5,207160,83.82,1.08,2002
+309,Vision Logistics,Europe,Automotive,3,427132,89.19,4.36,2012
+310,Vision Logistics,Europe,Textiles,3,75463,88.62,0.44,2002
+311,Zenith Distributors,Africa,Automotive,2,98500,86.09,2.44,2020
+312,Summit Components,North America,Textiles,1,212772,83.96,3.46,2005
+313,Synergy Co.,North America,Textiles,2,42158,81.31,1.31,2010
+314,Synergy Co.,North America,Automotive,2,89607,97.74,3.12,2016
+315,Echo Materials,North America,Food,4,386783,88.4,4.15,2009
+316,Beta Solutions,North America,Electronics,4,250017,89.94,0.95,2011
+317,Titan Ventures,Africa,Chemicals,2,338840,98.34,4.59,2016
+318,Cosmos Distributors,Asia,Textiles,2,328654,95.53,2.77,2003
+319,Genesis Materials,Europe,Chemicals,2,125076,82.61,1.5,2001
+320,Cosmos Distributors,North America,Automotive,5,63692,91.31,2.15,2010
+321,NextGen Logistics,Asia,Chemicals,4,135841,88.85,1.56,2006
+322,Cascade Traders,Asia,Automotive,2,197816,95.94,3.63,2001
+323,Universal Traders,Europe,Chemicals,3,282954,94.48,3.98,2017
+324,Legacy Supplies,Africa,Electronics,3,403342,93.81,4.16,2020
+325,Everest Goods,South America,Electronics,5,166081,86.81,4.93,2003
+326,Stellar Goods,South America,Electronics,5,497336,96.1,3.96,2007
+327,Genesis Materials,Asia,Electronics,1,116718,81.05,3.01,2019
+328,Titan Ventures,Europe,Electronics,1,358076,83.19,1.7,2013
+329,Phoenix Products,South America,Electronics,1,5192,86.71,2.72,2011
+330,Prime Distributors,Asia,Automotive,5,252536,81.54,0.21,2021
+331,Legacy Supplies,Africa,Textiles,5,41413,84.7,3.72,2020
+332,Pioneer Products,South America,Chemicals,5,148888,96.6,2.23,2017
+333,Prime Horizons,Asia,Electronics,3,44082,98.97,0.1,2010
+334,Zeta Corp,Asia,Automotive,5,332192,86.09,0.31,2007
+335,Phoenix Products,North America,Automotive,3,128130,85.29,1.94,2001
+336,Atlas Components,Africa,Automotive,1,55940,85.6,2.92,2014
+337,Legacy Supplies,North America,Textiles,1,168202,85.55,2.32,2008
+338,Cosmos Distributors,Europe,Chemicals,1,45142,80.72,3.1,2018
+339,Beta Solutions,North America,Textiles,2,41468,98.54,2.4,2019
+340,Orion Enterprises,North America,Food,2,428914,84.27,3.31,2007
+341,Delta Logistics,South America,Automotive,4,146727,88.4,1.1,2018
+342,Cosmos Distributors,Asia,Food,4,183969,80.19,0.56,2004
+343,Elite Manufacturing,Africa,Electronics,4,428291,97.16,2.98,2010
+344,Horizon Distributors,North America,Electronics,2,407575,94.62,2.42,2014
+345,Omni Supplies,Africa,Textiles,2,396192,98.94,0.13,2007
+346,Helix Industries,North America,Chemicals,4,241187,95.63,1.9,2018
+347,Atlas Components,Europe,Food,4,47056,86.27,0.53,2022
+348,Elite Manufacturing,North America,Chemicals,5,56831,84.96,2.66,2007
+349,Nexus Components,South America,Textiles,4,326335,93.95,1.98,2018
+350,Zeta Corp,Asia,Electronics,5,254664,87.28,3.07,2017
+351,Orion Enterprises,Europe,Chemicals,3,389092,91.32,4.03,2009
+352,Gamma Industries,North America,Chemicals,2,431488,80.13,1.5,2006
+353,Delta Logistics,Africa,Electronics,4,113117,81.24,4.81,2008
+354,Global Supplies,Europe,Food,2,281815,90.71,2.68,2000
+355,Synergy Co.,Europe,Electronics,2,294192,91.32,3.09,2018
+356,Helix Industries,North America,Chemicals,2,474490,95.03,3.4,2004
+357,Global Supplies,Europe,Food,3,293107,82.64,3.33,2018
+358,Infinity Goods,Africa,Food,1,48954,90.26,2.55,2000
+359,Everest Goods,Europe,Electronics,4,470525,83.89,2.14,2014
+360,Nexus Components,Africa,Chemicals,1,238192,81.86,0.27,2015
+361,Cosmos Distributors,North America,Textiles,1,362574,88.21,0.11,2022
+362,Pinnacle Products,Asia,Chemicals,1,5717,83.27,1.79,2006
+363,Apollo Supplies,Europe,Automotive,2,278820,84.44,1.67,2011
+364,Summit Exports,Asia,Textiles,5,402650,86.35,1.94,2007
+365,Phoenix Products,Africa,Food,2,185882,85.19,0.69,2004
+366,Helix Industries,Europe,Textiles,2,123696,81.75,3.69,2009
+367,Infinity Goods,South America,Food,1,492852,81.8,4.28,2020
+368,Legacy Supplies,Asia,Food,2,397974,83.86,4.69,2004
+369,Omni Supplies,Europe,Textiles,1,9994,81.01,2.46,2016
+370,Zeta Corp,Asia,Food,5,271378,92.53,3.5,2004
+371,Eagle Enterprises,Europe,Food,4,74300,85.75,4.28,2021
+372,Quantum Materials,North America,Automotive,1,311093,85.59,2.09,2014
+373,Momentum Goods,Asia,Chemicals,5,42405,86.64,1.55,2012
+374,Zenith Distributors,South America,Chemicals,4,302016,93.26,4.68,2000
+375,Alpha Resources,South America,Automotive,3,309359,97.41,2.58,2010
+376,Acme Corp,Africa,Textiles,1,28185,95.18,2.49,2022
+377,Summit Components,Europe,Electronics,1,179514,94.55,0.89,2000
+378,Nova Exports,Asia,Electronics,3,449975,89.69,0.54,2010
+379,Silverline Co.,Africa,Electronics,3,308297,93.88,4.21,2017
+380,Fusion Industries,Asia,Automotive,1,344679,91.06,3.07,2017
+381,Delta Logistics,Europe,Automotive,3,138653,84.33,1.63,2020
+382,Vanguard Supplies,South America,Food,2,56717,84.17,0.96,2015
+383,Genesis Materials,North America,Electronics,4,7763,85.93,2.78,2012
+384,Echo Materials,South America,Textiles,4,360054,98.22,2.92,2006
+385,Global Supplies,Africa,Textiles,4,60480,90.95,1.03,2000
+386,Orion Enterprises,North America,Electronics,2,174831,94.68,4.26,2015
+387,Delta Logistics,Africa,Electronics,3,212139,86.93,0.42,2000
+388,Gamma Industries,Europe,Electronics,5,123094,88.15,1.78,2016
+389,Omni Supplies,North America,Automotive,3,161379,82.51,3.4,2005
+390,Gamma Industries,Africa,Automotive,1,232443,83.43,1.37,2001
+391,Gamma Industries,Europe,Automotive,4,16064,96.55,4.14,2016
+392,Helix Industries,South America,Chemicals,3,81848,91.7,3.7,2005
+393,Prime Distributors,Europe,Textiles,5,42548,86.75,3.95,2013
+394,Vanguard Supplies,Asia,Textiles,1,173017,96.06,0.6,2017
+395,Apollo Supplies,Europe,Food,2,446153,84.93,0.7,2005
+396,Prime Horizons,Europe,Automotive,2,273620,99.52,1.43,2009
+397,Cosmos Distributors,Asia,Chemicals,5,449972,86.9,2.59,2017
+398,Summit Components,Africa,Chemicals,1,357245,86.75,3.74,2008
+399,Stellar Goods,Africa,Textiles,4,7382,86.24,4.18,2007
+400,Stellar Goods,Europe,Automotive,3,447899,82.44,3.52,2009
+401,NextGen Logistics,Asia,Food,1,486215,82.22,4.64,2016
+402,Summit Exports,Asia,Automotive,2,181348,92.96,3.69,2022
+403,Universal Traders,South America,Electronics,5,431618,97.5,1.53,2005
+404,Prime Distributors,Africa,Automotive,5,490097,95.81,1.33,2013
+405,Zenith Distributors,North America,Electronics,3,425162,82.82,3.48,2021
+406,Orion Enterprises,Africa,Electronics,5,84698,90.91,0.96,2021
+407,Titan Ventures,Africa,Food,5,250762,82.11,0.46,2005
+408,Legacy Supplies,South America,Textiles,1,248381,80.91,2.66,2006
+409,Nexus Components,North America,Automotive,4,472149,93.13,4.11,2011
+410,Nova Exports,South America,Electronics,3,420551,90.7,0.51,2002
+411,Eagle Enterprises,North America,Automotive,1,50095,81.64,3.96,2013
+412,Helix Industries,Europe,Textiles,4,478146,80.7,4.06,2021
+413,Titan Ventures,North America,Textiles,1,397118,99.8,2.41,2018
+414,Cascade Traders,South America,Chemicals,1,294341,80.6,0.29,2022
+415,Everest Goods,Africa,Textiles,5,394763,88.89,0.87,2015
+416,Cascade Traders,North America,Food,4,27010,90.09,3.54,2006
+417,Genesis Materials,North America,Electronics,3,422339,82.35,3.56,2007
+418,Infinity Goods,Asia,Chemicals,3,355067,83.38,4.49,2017
+419,Prime Horizons,Africa,Food,4,138962,87.04,2.91,2012
+420,Infinity Goods,Europe,Automotive,5,491521,95.23,0.62,2020
+421,Delta Logistics,South America,Electronics,2,397670,90.14,0.61,2008
+422,Pinnacle Products,Europe,Textiles,1,114162,92.76,3.61,2009
+423,Fusion Industries,Africa,Electronics,5,388071,99.7,0.92,2020
+424,Acme Corp,North America,Automotive,4,275170,95.36,1.64,2022
+425,Acme Corp,North America,Chemicals,1,332069,88.69,2.44,2008
+426,Echo Materials,Africa,Chemicals,3,73842,88.93,0.12,2014
+427,Orion Enterprises,North America,Chemicals,2,300809,92.38,1.24,2019
+428,Omni Supplies,North America,Textiles,3,276421,93.31,2.04,2001
+429,Nexus Components,North America,Food,4,178311,90.01,1.4,2012
+430,Zenith Distributors,South America,Food,1,445880,92.9,0.68,2001
+431,Acme Corp,South America,Electronics,4,315152,80.47,3.64,2018
+432,Nova Exports,Asia,Textiles,1,281827,88.59,4.07,2001
+433,Summit Exports,Europe,Chemicals,5,136742,85.58,1.29,2002
+434,NextGen Logistics,Africa,Chemicals,2,225283,82.58,3.87,2005
+435,Gamma Industries,Africa,Automotive,5,153961,81.99,1.93,2002
+436,Phoenix Products,Africa,Automotive,5,453828,92.06,2.53,2009
+437,Elite Manufacturing,Asia,Chemicals,4,180607,90.47,4.28,2005
+438,Fusion Industries,South America,Chemicals,2,345686,85.07,3.75,2022
+439,Infinity Goods,Asia,Textiles,1,321463,89.42,4.03,2015
+440,Nova Exports,Africa,Food,1,250144,89.84,0.68,2016
+441,Prime Horizons,Europe,Automotive,3,359211,83.9,0.35,2018
+442,Gamma Industries,North America,Food,1,157711,93.04,4.47,2002
+443,Phoenix Products,South America,Textiles,4,200784,95.62,1.94,2017
+444,Silverline Co.,South America,Chemicals,5,414849,95.83,1.44,2006
+445,Genesis Materials,Asia,Food,5,257217,92.05,3.62,2008
+446,NextGen Logistics,South America,Chemicals,5,432876,90.23,4.18,2019
+447,Titan Ventures,Africa,Chemicals,2,336119,81.22,4.31,2011
+448,NextGen Logistics,Africa,Electronics,1,168244,85.76,1.58,2004
+449,Fusion Industries,Asia,Food,4,457413,81.87,4.26,2002
+450,Nova Exports,Africa,Food,2,106158,99.28,0.2,2010
+451,Infinity Goods,Europe,Chemicals,3,457063,82.7,0.25,2003
+452,Infinity Goods,Asia,Textiles,4,278721,83.04,3.12,2004
+453,Beta Solutions,Europe,Electronics,4,344443,97.79,0.32,2000
+454,Summit Exports,North America,Chemicals,4,287320,98.88,1.62,2017
+455,Momentum Goods,Europe,Automotive,5,442602,95.32,3.36,2011
+456,Cosmos Distributors,North America,Automotive,4,68972,80.11,1.69,2012
+457,Titan Ventures,North America,Electronics,1,387162,80.03,0.9,2008
+458,Prime Horizons,Europe,Textiles,4,488007,87.56,1.41,2001
+459,Delta Logistics,Asia,Chemicals,5,439219,82.87,2.29,2004
+460,Apex Solutions,Africa,Food,4,287140,80.37,2.38,2012
+461,NextGen Logistics,Africa,Electronics,3,105922,89.28,3.92,2015
+462,Momentum Goods,North America,Textiles,3,353742,98.86,3.75,2015
+463,Echo Materials,North America,Food,5,40931,86.48,2.28,2002
+464,Atlas Components,Asia,Automotive,1,129168,93.22,4.23,2021
+465,Apex Solutions,South America,Automotive,1,171782,93.04,0.57,2003
+466,Cascade Traders,Europe,Food,2,128099,85.02,1.28,2010
+467,Orion Enterprises,North America,Electronics,5,39693,93.01,4.14,2022
+468,Acme Corp,Africa,Automotive,4,433956,84.25,1.89,2013
+469,NextGen Logistics,Asia,Chemicals,5,475457,82.44,4.91,2002
+470,Zenith Distributors,Europe,Food,2,113944,94.03,2.33,2015
+471,Universal Traders,Asia,Food,5,229655,82.27,3.96,2021
+472,Nova Exports,Europe,Automotive,5,212574,99.94,2.01,2014
+473,Zeta Corp,Europe,Electronics,2,284518,83.67,2.12,2009
+474,Nova Exports,North America,Chemicals,1,474890,91.88,1.91,2008
+475,Global Supplies,Asia,Electronics,4,252572,88.23,3.6,2010
+476,Genesis Materials,Asia,Textiles,2,348615,82.53,2.74,2015
+477,Orion Enterprises,Africa,Textiles,3,50913,80.56,4.72,2009
+478,Synergy Co.,Africa,Automotive,1,390827,92.45,1.25,2016
+479,Alpha Resources,North America,Automotive,3,202097,96.14,0.5,2018
+480,Zeta Corp,North America,Automotive,1,311660,96.84,1.97,2001
+481,Fusion Industries,South America,Textiles,4,92796,89.65,3.08,2022
+482,Legacy Supplies,Africa,Electronics,4,293213,95.55,4.3,2001
+483,Cosmos Distributors,Europe,Electronics,5,385477,93.46,1.73,2005
+484,Cosmos Distributors,Asia,Automotive,3,454449,94.49,3.27,2018
+485,Apollo Supplies,North America,Chemicals,1,89811,89.85,1.75,2007
+486,Prime Horizons,Asia,Electronics,4,195121,92.67,3.09,2002
+487,Fusion Industries,Asia,Textiles,2,237892,96.11,4.42,2013
+488,Elite Manufacturing,South America,Food,4,385172,87.96,1.16,2015
+489,Acme Corp,Africa,Food,2,44178,96.12,2.02,2000
+490,Cosmos Distributors,North America,Food,1,299965,91.84,4.97,2020
+491,Nexus Components,Asia,Chemicals,4,449943,83.32,4.34,2002
+492,Apex Solutions,North America,Automotive,4,459151,80.49,2.82,2021
+493,Apollo Supplies,Europe,Textiles,1,21999,87.26,2.58,2017
+494,Stellar Goods,South America,Chemicals,4,460738,90.93,1.42,2008
+495,Phoenix Products,Europe,Textiles,2,305856,96.8,2.59,2005
+496,Eagle Enterprises,North America,Textiles,4,200623,82.55,4.24,2022
+497,Fusion Industries,North America,Automotive,3,176244,96.0,3.43,2020
+498,Atlas Components,Africa,Food,5,300866,97.26,1.45,2000
+499,Global Supplies,Asia,Automotive,2,277769,83.01,1.01,2020
+500,Legacy Supplies,Asia,Chemicals,3,203237,97.03,1.33,2009
+501,Delta Logistics,Europe,Chemicals,1,474725,99.83,0.85,2005
+502,Everest Goods,South America,Chemicals,2,11859,94.54,0.48,2022
+503,Infinity Goods,Asia,Automotive,5,439825,95.7,2.1,2011
+504,Summit Components,Africa,Textiles,5,441523,99.89,0.57,2003
+505,Phoenix Products,Europe,Textiles,1,115986,92.11,0.86,2012
+506,Infinity Goods,Europe,Electronics,1,237654,86.16,2.74,2016
+507,Apex Solutions,Africa,Chemicals,2,288983,96.75,0.82,2007
+508,Infinity Goods,South America,Textiles,4,294360,92.29,0.32,2019
+509,Echo Materials,Africa,Electronics,1,320097,91.62,1.59,2002
+510,Pioneer Products,South America,Textiles,4,482697,85.07,1.1,2011
+511,Quantum Materials,Africa,Chemicals,3,458809,95.13,2.58,2006
+512,Universal Traders,Africa,Food,5,470291,81.63,0.51,2011
+513,Zenith Distributors,North America,Chemicals,4,54522,98.49,3.76,2001
+514,Velocity Ventures,Europe,Automotive,5,235233,86.52,4.53,2013
+515,Phoenix Products,Africa,Textiles,4,403102,82.56,3.72,2021
+516,Momentum Goods,Africa,Textiles,3,378393,88.85,2.66,2022
+517,Omni Supplies,Asia,Automotive,1,12485,80.85,4.3,2004
+518,Beta Solutions,Europe,Automotive,3,429671,93.69,3.47,2008
+519,Momentum Goods,Asia,Food,1,248056,98.05,0.05,2020
+520,Apex Solutions,Europe,Textiles,1,414983,96.75,1.97,2010
+521,Prime Horizons,Asia,Textiles,5,117701,82.55,4.25,2004
+522,Pinnacle Products,Africa,Food,3,426669,82.53,1.73,2002
+523,Zeta Corp,Africa,Electronics,4,212352,96.27,0.18,2016
+524,Legacy Supplies,North America,Food,3,107638,98.49,3.73,2001
+525,Legacy Supplies,Asia,Chemicals,5,189514,89.21,4.01,2000
+526,Momentum Goods,South America,Textiles,1,450093,89.98,0.8,2006
+527,Horizon Distributors,North America,Automotive,5,279370,86.37,2.69,2013
+528,Summit Exports,Asia,Chemicals,2,98405,97.89,0.96,2004
+529,Orion Enterprises,Asia,Textiles,2,289732,92.9,3.6,2018
+530,Zeta Corp,North America,Food,4,215048,85.77,1.36,2010
+531,Delta Logistics,Africa,Chemicals,5,167781,85.98,1.58,2022
+532,Orion Enterprises,Asia,Textiles,4,446004,97.82,4.22,2001
+533,Prime Horizons,Africa,Electronics,4,486247,80.27,2.38,2007
+534,Fusion Industries,North America,Electronics,2,42019,86.45,3.35,2008
+535,Eagle Enterprises,Africa,Automotive,4,443164,91.09,2.01,2002
+536,Delta Logistics,Europe,Textiles,2,266497,82.96,1.49,2001
+537,Omni Supplies,South America,Electronics,1,70133,81.84,3.13,2006
+538,Legacy Supplies,Asia,Food,5,381588,96.31,0.77,2004
+539,Pioneer Products,South America,Textiles,4,202530,97.89,1.86,2020
+540,Titan Ventures,Africa,Food,2,384747,96.47,1.05,2004
+541,Everest Goods,Asia,Food,3,163598,97.98,3.48,2019
+542,Alpha Resources,Africa,Electronics,4,471709,91.06,4.72,2012
+543,Omni Supplies,Europe,Textiles,1,133585,96.25,4.98,2020
+544,Gamma Industries,North America,Chemicals,1,450414,87.68,2.25,2019
+545,Eagle Enterprises,Asia,Electronics,3,250172,93.33,1.26,2005
+546,Cascade Traders,Europe,Electronics,2,497750,99.78,2.21,2019
+547,Momentum Goods,Europe,Textiles,4,310539,84.51,4.24,2017
+548,Fusion Industries,Asia,Textiles,2,422247,87.8,1.03,2001
+549,Pioneer Products,Africa,Food,1,473758,89.6,4.76,2005
+550,Cascade Traders,Europe,Textiles,2,130814,82.76,1.71,2008
+551,Fusion Industries,South America,Food,1,435917,81.62,4.93,2002
+552,Pinnacle Products,Europe,Electronics,2,379743,96.59,4.19,2000
+553,Quantum Materials,Africa,Automotive,3,30939,99.54,4.04,2000
+554,Genesis Materials,Africa,Chemicals,5,447361,88.09,1.59,2018
+555,Silverline Co.,South America,Electronics,3,418540,81.75,0.04,2004
+556,Atlas Components,Europe,Textiles,3,158939,81.32,1.91,2012
+557,Cascade Traders,Africa,Chemicals,5,267347,97.83,1.51,2018
+558,Nova Exports,Asia,Automotive,5,414760,89.28,0.19,2011
+559,NextGen Logistics,North America,Automotive,4,414115,86.4,2.53,2015
+560,Legacy Supplies,North America,Food,4,296207,89.53,2.02,2018
+561,Fusion Industries,North America,Chemicals,3,95880,86.37,3.17,2002
+562,Omni Supplies,Europe,Food,3,8748,89.78,3.11,2011
+563,Beta Solutions,South America,Electronics,1,241094,97.19,0.6,2004
+564,Momentum Goods,Africa,Chemicals,1,384413,91.85,4.88,2001
+565,Delta Logistics,Asia,Electronics,4,464845,93.89,0.93,2021
+566,Nova Exports,Asia,Food,4,347908,87.29,2.23,2006
+567,Summit Exports,Europe,Chemicals,1,156956,94.77,2.44,2012
+568,Zenith Distributors,North America,Food,1,161255,93.33,4.07,2014
+569,Helix Industries,Europe,Chemicals,2,479786,82.39,0.5,2021
+570,Summit Exports,South America,Food,2,469462,91.45,2.14,2002
+571,Silverline Co.,South America,Automotive,1,375180,85.13,3.14,2020
+572,Atlas Components,Africa,Food,2,155331,96.08,1.08,2019
+573,NextGen Logistics,Africa,Automotive,5,172031,88.52,3.14,2004
+574,Legacy Supplies,South America,Food,4,383669,99.89,4.62,2007
+575,Delta Logistics,South America,Chemicals,4,431673,81.85,4.99,2021
+576,Phoenix Products,South America,Chemicals,1,352823,95.61,0.16,2000
+577,Apollo Supplies,Europe,Chemicals,3,130829,93.47,1.18,2007
+578,Velocity Ventures,South America,Textiles,1,133216,95.35,1.55,2017
+579,Horizon Distributors,Asia,Electronics,2,400319,86.15,2.0,2019
+580,Fusion Industries,North America,Chemicals,3,70901,89.84,1.21,2015
+581,Pinnacle Products,South America,Automotive,2,248386,95.93,1.02,2017
+582,Apex Solutions,North America,Chemicals,5,180607,84.65,4.77,2019
+583,Stellar Goods,Europe,Textiles,2,414319,84.52,4.59,2011
+584,Everest Goods,North America,Automotive,5,103046,91.02,0.23,2012
+585,Vision Logistics,Europe,Textiles,5,357156,90.47,1.69,2012
+586,Quantum Materials,Asia,Automotive,2,83278,85.65,2.03,2009
+587,Eagle Enterprises,Europe,Food,2,279535,85.96,1.2,2006
+588,Nexus Components,Europe,Electronics,5,107476,85.56,3.14,2013
+589,Helix Industries,Africa,Electronics,3,427117,95.43,3.2,2015
+590,Pinnacle Products,South America,Textiles,5,387865,93.04,4.25,2014
+591,Synergy Co.,South America,Electronics,4,102537,96.65,3.7,2011
+592,Global Supplies,Asia,Textiles,5,348303,99.51,2.71,2008
+593,NextGen Logistics,Asia,Textiles,3,466130,89.48,3.27,2007
+594,Phoenix Products,South America,Textiles,4,398184,81.33,1.37,2017
+595,Prime Horizons,Africa,Electronics,1,186429,80.96,2.97,2022
+596,Vision Logistics,South America,Textiles,1,222980,85.91,2.45,2017
+597,Cascade Traders,Africa,Electronics,3,436653,98.65,0.67,2012
+598,Summit Components,Asia,Textiles,5,302647,90.46,1.21,2017
+599,Zenith Distributors,North America,Chemicals,2,494498,85.44,1.46,2014
+600,Acme Corp,Asia,Textiles,3,491675,87.98,4.62,2003
+601,Gamma Industries,Asia,Automotive,4,80403,91.97,1.15,2016
+602,Everest Goods,Europe,Textiles,4,439474,93.06,1.45,2004
+603,Quantum Materials,Europe,Food,1,431940,83.08,1.85,2021
+604,Omni Supplies,Europe,Textiles,4,69286,99.54,3.32,2015
+605,Zenith Distributors,Europe,Automotive,3,341986,90.9,0.59,2008
+606,Universal Traders,Africa,Automotive,4,109927,82.71,4.77,2009
+607,Momentum Goods,South America,Electronics,3,282052,97.87,4.33,2017
+608,Prime Distributors,North America,Chemicals,2,490833,81.49,2.89,2016
+609,Atlas Components,Asia,Textiles,1,448842,98.15,3.37,2017
+610,Cascade Traders,Africa,Electronics,4,304372,99.93,0.08,2006
+611,Stellar Goods,North America,Chemicals,3,28386,94.01,1.69,2003
+612,Summit Exports,Africa,Textiles,5,182826,95.41,3.98,2004
+613,Synergy Co.,Africa,Food,1,295446,86.75,0.39,2022
+614,Apex Solutions,Asia,Textiles,2,327959,98.83,1.41,2015
+615,Infinity Goods,South America,Automotive,3,257156,90.59,2.93,2002
+616,Cascade Traders,Europe,Automotive,2,482964,94.65,1.28,2017
+617,Summit Exports,South America,Food,2,330488,98.48,4.67,2022
+618,Elite Manufacturing,Asia,Electronics,4,433834,99.5,0.66,2020
+619,Zenith Distributors,Asia,Chemicals,4,378747,96.66,3.99,2013
+620,Eagle Enterprises,Asia,Textiles,3,474450,86.06,2.54,2014
+621,Genesis Materials,North America,Automotive,5,328258,99.33,3.75,2016
+622,Alpha Resources,South America,Electronics,3,253724,92.56,1.55,2000
+623,Genesis Materials,South America,Food,5,206202,98.61,2.57,2020
+624,Summit Components,Africa,Automotive,2,30525,93.52,4.28,2016
+625,Pioneer Products,Africa,Food,1,84818,86.14,2.33,2022
+626,Summit Exports,Africa,Textiles,3,119589,87.4,1.8,2010
+627,Acme Corp,Asia,Chemicals,3,150406,91.01,2.68,2016
+628,Elite Manufacturing,South America,Automotive,5,99715,95.8,3.59,2013
+629,Eagle Enterprises,Asia,Automotive,2,198839,86.36,2.22,2019
+630,Genesis Materials,North America,Textiles,2,273788,91.59,4.69,2018
+631,Omni Supplies,Africa,Electronics,5,368298,86.91,1.47,2020
+632,Cosmos Distributors,Asia,Chemicals,2,431149,96.32,2.38,2006
+633,Vision Logistics,Asia,Automotive,4,262438,89.33,3.78,2012
+634,Prime Distributors,North America,Chemicals,1,310613,81.53,3.45,2017
+635,Stellar Goods,Europe,Automotive,3,431903,83.32,4.32,2022
+636,Zenith Distributors,South America,Chemicals,1,373753,81.22,4.98,2013
+637,Orion Enterprises,Europe,Food,3,450872,89.99,2.13,2000
+638,Zenith Distributors,Africa,Automotive,4,415591,82.13,0.56,2006
+639,Beta Solutions,Asia,Chemicals,2,332350,82.28,0.15,2007
+640,Nova Exports,North America,Electronics,5,363606,98.82,3.63,2017
+641,Beta Solutions,North America,Food,4,172679,97.45,4.37,2008
+642,Velocity Ventures,South America,Food,1,88178,89.04,1.1,2000
+643,Prime Horizons,Europe,Electronics,5,422209,99.72,0.79,2021
+644,Momentum Goods,South America,Chemicals,2,180458,80.0,0.31,2016
+645,Legacy Supplies,Asia,Textiles,4,259466,92.28,4.11,2018
+646,Cascade Traders,South America,Electronics,5,444503,92.33,1.56,2005
+647,Alpha Resources,North America,Chemicals,4,91724,89.15,2.01,2002
+648,Horizon Distributors,North America,Electronics,4,234204,87.94,2.51,2004
+649,Pioneer Products,Africa,Electronics,2,491524,89.11,4.2,2001
+650,Silverline Co.,Africa,Automotive,3,101393,88.3,3.25,2019
+651,Vanguard Supplies,Asia,Chemicals,5,394458,94.61,3.08,2003
+652,Atlas Components,Europe,Textiles,2,81312,82.71,0.88,2009
+653,Acme Corp,South America,Automotive,4,496587,83.95,2.57,2009
+654,Elite Manufacturing,Asia,Electronics,2,342468,83.61,3.58,2020
+655,Nova Exports,Africa,Electronics,3,76196,85.25,4.87,2010
+656,Delta Logistics,South America,Electronics,5,75014,90.51,1.01,2015
+657,Velocity Ventures,Africa,Chemicals,3,406426,82.22,0.05,2016
+658,Fusion Industries,South America,Chemicals,1,146994,97.36,0.38,2015
+659,Apex Solutions,Europe,Automotive,5,434505,85.95,1.88,2006
+660,Orion Enterprises,Asia,Textiles,3,38340,83.25,4.1,2015
+661,Nova Exports,South America,Automotive,4,306994,93.51,0.04,2002
+662,Summit Components,North America,Food,5,455200,80.76,2.28,2015
+663,Vision Logistics,North America,Electronics,5,118711,92.4,1.65,2007
+664,Fusion Industries,South America,Electronics,2,220250,93.96,0.26,2011
+665,Zeta Corp,South America,Electronics,4,16094,84.3,2.25,2002
+666,Genesis Materials,South America,Automotive,1,355103,80.84,1.27,2016
+667,Summit Components,North America,Automotive,3,431634,87.27,1.76,2020
+668,Genesis Materials,North America,Electronics,2,272885,81.97,3.53,2017
+669,Momentum Goods,South America,Automotive,3,116585,82.33,2.61,2010
+670,Infinity Goods,Africa,Chemicals,1,470590,85.09,0.62,2003
+671,Summit Components,Africa,Chemicals,1,389708,85.91,4.81,2015
+672,Genesis Materials,Europe,Automotive,5,73798,90.6,3.18,2016
+673,Genesis Materials,Asia,Electronics,1,383170,93.57,3.83,2008
+674,Prime Horizons,Africa,Automotive,3,206604,91.86,0.4,2005
+675,Pioneer Products,North America,Automotive,4,115130,82.97,0.24,2019
+676,Momentum Goods,Africa,Automotive,4,289308,83.44,0.1,2001
+677,Synergy Co.,Europe,Food,5,171667,97.58,0.94,2008
+678,Everest Goods,Europe,Chemicals,3,35257,91.17,2.07,2020
+679,Pinnacle Products,Asia,Textiles,3,412427,97.4,4.68,2005
+680,Cosmos Distributors,Africa,Textiles,1,363133,87.43,2.29,2002
+681,Alpha Resources,North America,Food,3,403448,92.29,1.45,2019
+682,Eagle Enterprises,North America,Automotive,2,465969,90.47,2.81,2005
+683,Genesis Materials,South America,Food,1,57691,86.38,0.56,2006
+684,Phoenix Products,North America,Food,2,487981,89.4,3.05,2000
+685,Eagle Enterprises,Asia,Electronics,5,84768,90.05,2.84,2022
+686,Legacy Supplies,Asia,Chemicals,4,423829,84.02,3.96,2000
+687,Prime Distributors,North America,Textiles,5,19026,86.3,4.93,2004
+688,Horizon Distributors,North America,Automotive,4,451751,95.83,1.25,2005
+689,NextGen Logistics,South America,Textiles,5,230162,98.32,2.55,2012
+690,Omni Supplies,North America,Textiles,3,298052,87.2,4.54,2001
+691,Global Supplies,South America,Chemicals,2,450329,86.14,3.93,2014
+692,Apex Solutions,South America,Textiles,4,24610,83.9,2.44,2014
+693,Titan Ventures,North America,Textiles,1,182718,93.57,4.73,2012
+694,Zenith Distributors,Europe,Food,2,330329,86.46,0.29,2013
+695,NextGen Logistics,Europe,Chemicals,1,339711,99.75,4.65,2021
+696,Cosmos Distributors,South America,Electronics,2,183646,86.51,0.25,2006
+697,Acme Corp,North America,Automotive,2,227123,87.88,2.74,2013
+698,Horizon Distributors,Europe,Textiles,5,303326,92.07,4.45,2009
+699,Orion Enterprises,North America,Automotive,4,383280,96.03,1.31,2016
+700,Velocity Ventures,North America,Electronics,4,398786,89.39,2.36,2013
+701,Beta Solutions,North America,Automotive,2,496006,88.45,1.62,2007
+702,Infinity Goods,Africa,Electronics,3,24288,99.91,4.76,2003
+703,Omni Supplies,North America,Food,3,345968,80.21,4.12,2015
+704,Gamma Industries,Africa,Textiles,1,428093,97.9,3.55,2012
+705,Synergy Co.,South America,Electronics,1,89425,82.98,2.94,2021
+706,Eagle Enterprises,Europe,Automotive,5,5917,95.72,4.1,2019
+707,Cosmos Distributors,Europe,Textiles,2,342746,92.36,1.96,2017
+708,Echo Materials,Europe,Food,1,493256,86.84,2.24,2013
+709,Pioneer Products,Europe,Textiles,1,331719,97.48,3.65,2017
+710,Legacy Supplies,Europe,Electronics,2,339662,80.26,1.79,2004
+711,Acme Corp,Europe,Food,5,258187,84.53,0.32,2008
+712,Beta Solutions,Europe,Automotive,1,44104,91.34,0.37,2002
+713,Prime Distributors,South America,Food,5,154134,87.03,0.58,2007
+714,Genesis Materials,North America,Food,4,284143,92.21,4.35,2019
+715,Everest Goods,Asia,Chemicals,5,267091,80.48,2.36,2021
+716,NextGen Logistics,Africa,Food,3,460061,82.33,3.56,2009
+717,Atlas Components,Asia,Food,3,408157,82.54,1.96,2021
+718,NextGen Logistics,Asia,Textiles,5,66169,83.79,1.29,2018
+719,Vision Logistics,North America,Automotive,3,159542,89.19,1.74,2020
+720,Elite Manufacturing,North America,Textiles,4,134744,95.04,3.97,2002
+721,Delta Logistics,North America,Textiles,2,377828,98.11,3.13,2010
+722,Prime Horizons,Europe,Electronics,3,64821,96.71,4.69,2010
+723,Prime Horizons,South America,Textiles,3,222741,83.94,3.4,2016
+724,Apex Solutions,Europe,Chemicals,5,254265,88.82,2.85,2015
+725,Apex Solutions,South America,Chemicals,4,442651,83.99,3.05,2006
+726,Cascade Traders,South America,Electronics,2,402745,85.29,4.71,2003
+727,Everest Goods,Asia,Automotive,5,219127,90.07,3.94,2022
+728,Beta Solutions,Asia,Automotive,5,279336,81.36,0.12,2018
+729,Silverline Co.,South America,Textiles,4,341246,84.36,2.67,2011
+730,Pinnacle Products,South America,Textiles,2,208834,98.71,3.44,2014
+731,Acme Corp,Europe,Textiles,4,239538,89.32,3.74,2010
+732,Zenith Distributors,Europe,Automotive,2,382038,88.91,1.07,2004
+733,Eagle Enterprises,Asia,Food,4,91795,80.29,4.34,2004
+734,Universal Traders,North America,Chemicals,5,170159,84.95,4.78,2014
+735,Acme Corp,South America,Food,5,333821,97.33,1.18,2017
+736,Nexus Components,Europe,Food,1,140699,83.29,4.41,2010
+737,Orion Enterprises,Asia,Automotive,3,454757,88.3,0.48,2011
+738,Echo Materials,Europe,Food,4,248877,80.29,0.28,2001
+739,Genesis Materials,South America,Electronics,1,204298,89.57,0.65,2019
+740,Atlas Components,South America,Textiles,3,401471,80.42,0.29,2014
+741,Summit Components,Africa,Electronics,4,193505,96.39,4.23,2019
+742,Summit Exports,North America,Chemicals,2,141285,96.5,0.3,2003
+743,Infinity Goods,Africa,Textiles,3,107412,95.75,1.36,2021
+744,Echo Materials,Asia,Food,5,24404,85.67,0.52,2017
+745,Elite Manufacturing,Europe,Chemicals,1,121545,96.74,1.48,2005
+746,Fusion Industries,Asia,Textiles,3,423596,90.86,0.45,2022
+747,Acme Corp,South America,Food,3,227128,87.48,3.34,2018
+748,Stellar Goods,Africa,Electronics,5,155245,92.51,0.67,2010
+749,NextGen Logistics,Africa,Textiles,4,189099,80.25,4.26,2001
+750,Titan Ventures,Africa,Food,2,291133,82.86,4.09,2007
+751,Titan Ventures,Asia,Electronics,5,266657,94.85,0.07,2010
+752,Everest Goods,South America,Chemicals,2,375250,84.88,4.48,2004
+753,Delta Logistics,Europe,Chemicals,4,291663,91.96,0.14,2017
+754,Vanguard Supplies,Europe,Chemicals,3,261875,87.7,1.2,2022
+755,Prime Horizons,Asia,Chemicals,2,289583,97.1,0.16,2017
+756,Beta Solutions,Africa,Automotive,1,385714,99.05,1.68,2013
+757,Silverline Co.,North America,Textiles,1,475165,97.67,2.57,2021
+758,Global Supplies,Asia,Textiles,5,19995,85.41,3.98,2009
+759,Velocity Ventures,Asia,Automotive,4,28559,83.88,1.69,2002
+760,Summit Exports,South America,Food,5,356193,89.49,3.53,2008
+761,Vision Logistics,Europe,Food,5,403237,80.15,0.94,2002
+762,Echo Materials,Asia,Chemicals,5,103000,80.52,3.75,2010
+763,Vision Logistics,Asia,Electronics,1,157191,91.07,1.18,2011
+764,Echo Materials,Africa,Food,1,449755,90.41,0.72,2011
+765,Horizon Distributors,Africa,Electronics,5,493051,99.89,0.93,2002
+766,Titan Ventures,North America,Textiles,1,306494,84.04,0.91,2020
+767,Vanguard Supplies,South America,Electronics,4,444439,85.16,2.56,2006
+768,Synergy Co.,North America,Textiles,5,30517,82.27,4.22,2013
+769,Echo Materials,Africa,Automotive,1,476869,98.35,0.4,2010
+770,Vision Logistics,Europe,Automotive,2,420466,95.56,3.53,2006
+771,Cosmos Distributors,Africa,Chemicals,5,220558,96.45,3.27,2020
+772,Zeta Corp,South America,Food,5,481111,98.06,4.36,2009
+773,Vanguard Supplies,Africa,Chemicals,4,356276,90.5,1.22,2010
+774,Titan Ventures,South America,Textiles,3,489282,89.02,2.25,2014
+775,Helix Industries,South America,Chemicals,3,465014,86.61,4.63,2018
+776,Everest Goods,South America,Electronics,4,452415,91.78,3.3,2015
+777,NextGen Logistics,South America,Textiles,4,326690,89.09,1.94,2021
+778,Phoenix Products,South America,Automotive,4,110686,89.03,0.66,2020
+779,Universal Traders,Europe,Food,3,93151,98.74,1.31,2019
+780,Apex Solutions,North America,Textiles,4,270471,99.68,2.91,2011
+781,Everest Goods,Asia,Textiles,1,125318,95.93,3.59,2017
+782,Apex Solutions,North America,Electronics,5,427984,95.14,0.62,2022
+783,Everest Goods,South America,Food,5,200490,93.61,3.0,2012
+784,Alpha Resources,Europe,Automotive,2,492602,83.32,2.75,2004
+785,Zeta Corp,Africa,Textiles,2,178860,81.18,2.57,2003
+786,NextGen Logistics,Europe,Textiles,5,120945,93.81,3.45,2013
+787,Echo Materials,South America,Electronics,1,218456,94.58,4.19,2007
+788,Prime Distributors,Europe,Chemicals,3,313974,80.94,1.61,2008
+789,Global Supplies,Europe,Automotive,3,57446,98.56,4.45,2018
+790,Eagle Enterprises,South America,Food,1,413376,81.82,0.8,2002
+791,Apollo Supplies,Europe,Textiles,3,192655,85.72,0.87,2004
+792,Apollo Supplies,Asia,Textiles,4,432214,93.45,1.33,2020
+793,Velocity Ventures,Asia,Automotive,5,425446,83.4,0.6,2017
+794,Delta Logistics,Europe,Chemicals,5,145148,81.11,1.15,2000
+795,Nova Exports,Africa,Textiles,1,74341,86.62,0.53,2007
+796,Atlas Components,South America,Automotive,3,36085,95.32,4.11,2018
+797,Velocity Ventures,Asia,Electronics,2,322715,88.27,0.69,2016
+798,Nova Exports,Africa,Chemicals,2,412931,93.06,3.74,2016
+799,Summit Components,Europe,Food,3,395452,91.59,0.24,2010
+800,Universal Traders,Africa,Textiles,2,10750,80.44,4.74,2001
+801,Nexus Components,North America,Automotive,1,381075,99.77,3.56,2005
+802,Universal Traders,Asia,Electronics,1,345912,80.83,0.03,2021
+803,Omni Supplies,Europe,Food,3,40903,99.36,3.82,2013
+804,Elite Manufacturing,South America,Automotive,2,208561,91.0,2.57,2002
+805,Orion Enterprises,Europe,Automotive,1,430309,99.26,3.9,2011
+806,Elite Manufacturing,South America,Food,1,96036,82.3,2.61,2003
+807,Synergy Co.,Europe,Electronics,4,92954,89.81,3.21,2011
+808,Phoenix Products,Africa,Electronics,4,432530,83.39,3.93,2012
+809,Orion Enterprises,Africa,Chemicals,1,446441,81.02,2.03,2001
+810,Cascade Traders,Africa,Textiles,3,486201,92.35,0.01,2001
+811,Beta Solutions,North America,Food,5,350158,84.16,4.25,2014
+812,NextGen Logistics,South America,Food,5,433395,91.75,1.9,2022
+813,Horizon Distributors,Africa,Food,1,122305,82.25,2.48,2016
+814,Genesis Materials,North America,Electronics,1,423554,86.64,0.04,2006
+815,Helix Industries,South America,Textiles,1,490651,95.63,2.46,2013
+816,Gamma Industries,Europe,Chemicals,3,205753,88.74,4.93,2011
+817,Beta Solutions,North America,Automotive,4,37101,92.55,1.39,2016
+818,Prime Distributors,Asia,Automotive,1,7775,92.95,1.98,2013
+819,Acme Corp,North America,Food,1,116497,96.88,3.44,2005
+820,NextGen Logistics,North America,Textiles,2,495399,86.5,4.07,2018
+821,Pioneer Products,South America,Electronics,3,50619,93.75,2.09,2005
+822,Fusion Industries,Europe,Textiles,1,444054,99.23,1.55,2017
+823,Infinity Goods,Asia,Textiles,2,257388,94.6,4.69,2004
+824,Echo Materials,Africa,Electronics,5,417755,89.8,3.39,2005
+825,Silverline Co.,Africa,Food,1,238346,92.61,0.6,2001
+826,Infinity Goods,North America,Textiles,1,324268,94.79,0.34,2007
+827,Zenith Distributors,South America,Automotive,2,70149,92.25,2.42,2014
+828,Synergy Co.,South America,Electronics,3,31616,80.33,1.1,2014
+829,Pinnacle Products,Africa,Chemicals,1,477871,83.9,1.27,2010
+830,Infinity Goods,Asia,Food,5,226767,96.21,4.39,2021
+831,Gamma Industries,Europe,Electronics,1,190639,85.45,0.45,2021
+832,Titan Ventures,Asia,Chemicals,5,173171,94.63,3.58,2000
+833,Apollo Supplies,Europe,Chemicals,4,211903,87.44,1.36,2017
+834,Everest Goods,Africa,Textiles,4,236318,90.44,3.8,2011
+835,Infinity Goods,Europe,Textiles,5,328943,81.36,3.61,2011
+836,Momentum Goods,South America,Textiles,3,357365,83.62,0.04,2010
+837,Acme Corp,North America,Electronics,1,382023,99.14,2.55,2007
+838,Summit Components,North America,Electronics,1,292623,97.8,0.7,2006
+839,Legacy Supplies,Africa,Food,4,444388,93.05,4.33,2022
+840,Vanguard Supplies,South America,Textiles,5,366309,89.19,4.36,2020
+841,Gamma Industries,Asia,Chemicals,1,60863,93.52,2.09,2001
+842,Silverline Co.,South America,Automotive,1,178115,92.37,2.22,2010
+843,Infinity Goods,North America,Food,3,349713,91.37,1.52,2021
+844,Genesis Materials,North America,Electronics,2,413624,81.18,3.58,2009
+845,Delta Logistics,South America,Food,4,258347,92.66,1.79,2002
+846,Silverline Co.,South America,Food,4,194052,95.38,1.34,2019
+847,Zeta Corp,North America,Food,2,481172,99.88,2.16,2009
+848,Global Supplies,Asia,Food,1,283495,80.22,0.46,2017
+849,Zenith Distributors,Africa,Automotive,3,140203,94.6,3.73,2013
+850,Infinity Goods,Africa,Textiles,3,252908,91.44,0.06,2017
+851,Silverline Co.,South America,Chemicals,4,311969,88.68,3.22,2007
+852,Quantum Materials,Africa,Food,3,278493,82.55,0.91,2009
+853,Elite Manufacturing,North America,Food,2,197003,88.18,1.16,2021
+854,Delta Logistics,North America,Food,1,311398,87.09,3.18,2012
+855,Apollo Supplies,South America,Textiles,2,305369,86.06,4.96,2020
+856,Zenith Distributors,South America,Electronics,5,279597,94.62,3.89,2007
+857,Horizon Distributors,South America,Electronics,4,154886,94.01,1.13,2003
+858,Vision Logistics,Asia,Automotive,3,154335,91.78,0.88,2003
+859,Legacy Supplies,Africa,Electronics,5,82694,98.77,4.33,2004
+860,Vanguard Supplies,South America,Food,3,20735,87.0,2.22,2000
+861,Omni Supplies,Europe,Food,1,414046,84.88,0.69,2016
+862,Prime Horizons,Europe,Food,1,315037,93.12,4.31,2001
+863,Genesis Materials,North America,Automotive,1,180745,83.98,4.08,2007
+864,Apex Solutions,Africa,Food,3,394150,86.3,4.92,2006
+865,Summit Exports,South America,Electronics,5,225534,84.49,4.55,2014
+866,Everest Goods,Europe,Textiles,1,50066,81.38,4.26,2004
+867,Summit Exports,Africa,Textiles,5,236387,96.55,0.26,2001
+868,Gamma Industries,North America,Chemicals,3,139445,85.09,0.52,2006
+869,Infinity Goods,Asia,Electronics,5,408551,89.46,2.84,2007
+870,Stellar Goods,Africa,Food,3,421957,80.87,2.66,2006
+871,Omni Supplies,Africa,Textiles,3,277836,93.99,2.29,2006
+872,Everest Goods,Asia,Electronics,4,445511,86.61,1.98,2013
+873,Eagle Enterprises,Africa,Textiles,3,50541,94.89,2.16,2020
+874,Alpha Resources,North America,Food,3,170129,88.25,2.85,2017
+875,Omni Supplies,North America,Textiles,2,71983,83.92,0.01,2005
+876,Universal Traders,Asia,Chemicals,1,155655,90.26,1.3,2003
+877,Apex Solutions,South America,Chemicals,4,158837,82.61,2.59,2009
+878,Elite Manufacturing,Europe,Textiles,4,195359,88.81,3.61,2017
+879,Pioneer Products,South America,Electronics,4,422122,86.35,0.87,2011
+880,Zenith Distributors,Africa,Electronics,2,387891,98.24,2.73,2015
+881,Horizon Distributors,Europe,Electronics,3,352247,81.22,3.57,2006
+882,Momentum Goods,Asia,Textiles,1,215747,93.88,2.22,2005
+883,Gamma Industries,Asia,Electronics,5,182597,83.66,0.14,2004
+884,Echo Materials,Europe,Food,3,174302,86.38,2.25,2002
+885,Summit Components,North America,Chemicals,2,417736,88.31,1.48,2011
+886,Nexus Components,Europe,Food,3,483454,98.16,4.65,2014
+887,Stellar Goods,Africa,Electronics,3,450150,84.85,0.62,2009
+888,Cascade Traders,North America,Food,2,292710,81.83,3.26,2019
+889,Helix Industries,Asia,Electronics,4,340337,86.37,0.26,2018
+890,Pioneer Products,Europe,Textiles,4,428350,82.09,2.23,2015
+891,Prime Horizons,South America,Food,1,408561,82.57,2.77,2010
+892,Prime Distributors,South America,Textiles,1,257084,91.48,1.49,2007
+893,Infinity Goods,Africa,Textiles,4,126015,81.22,2.28,2002
+894,Echo Materials,South America,Automotive,5,177257,80.62,0.82,2022
+895,Zenith Distributors,Europe,Electronics,3,251536,94.29,1.52,2006
+896,Prime Distributors,Europe,Chemicals,5,229021,87.23,3.11,2022
+897,Prime Horizons,South America,Electronics,3,135956,82.51,1.51,2006
+898,Cosmos Distributors,Europe,Chemicals,4,75744,85.07,4.5,2013
+899,Gamma Industries,Africa,Electronics,1,300599,92.84,3.14,2001
+900,Beta Solutions,North America,Textiles,1,426234,85.51,2.19,2009
+901,Prime Distributors,Africa,Food,5,321363,89.89,0.19,2018
+902,Prime Distributors,Africa,Food,1,313135,82.43,2.5,2008
+903,Universal Traders,Europe,Automotive,4,78616,91.76,3.82,2015
+904,Titan Ventures,North America,Chemicals,5,92438,86.32,1.33,2018
+905,Velocity Ventures,Europe,Chemicals,3,121841,92.54,4.03,2017
+906,Titan Ventures,Asia,Chemicals,1,145558,96.17,1.26,2008
+907,Atlas Components,Europe,Textiles,2,174934,92.23,4.12,2015
+908,Zeta Corp,Europe,Chemicals,1,257734,85.91,0.43,2012
+909,Pinnacle Products,Europe,Food,3,63870,85.11,4.33,2009
+910,Elite Manufacturing,North America,Textiles,5,91694,86.55,2.5,2019
+911,Atlas Components,Europe,Electronics,3,242068,83.29,1.48,2013
+912,Nexus Components,North America,Chemicals,2,311000,83.62,1.33,2011
+913,Prime Horizons,South America,Chemicals,4,106407,95.81,2.16,2018
+914,Momentum Goods,Asia,Electronics,1,498960,87.69,5.0,2006
+915,Zeta Corp,North America,Chemicals,5,484271,88.72,1.1,2022
+916,Atlas Components,South America,Electronics,4,36379,91.88,0.52,2014
+917,Prime Distributors,North America,Textiles,3,331873,91.79,2.93,2015
+918,Global Supplies,North America,Food,5,426594,81.35,2.44,2007
+919,Alpha Resources,Asia,Electronics,4,241500,96.63,2.62,2009
+920,Genesis Materials,Africa,Automotive,5,59353,83.55,3.33,2003
+921,Velocity Ventures,Africa,Electronics,2,186068,94.46,1.34,2018
+922,Universal Traders,North America,Chemicals,2,281175,95.45,4.55,2018
+923,Vanguard Supplies,Europe,Textiles,1,216144,94.3,2.18,2020
+924,Prime Distributors,South America,Textiles,1,70982,91.58,0.65,2014
+925,Titan Ventures,Europe,Electronics,2,41683,80.29,3.71,2013
+926,Vision Logistics,Europe,Food,5,119091,87.21,3.22,2000
+927,Global Supplies,North America,Automotive,2,122797,92.1,1.58,2015
+928,Vanguard Supplies,North America,Textiles,1,415834,87.75,3.11,2009
+929,Velocity Ventures,North America,Chemicals,2,11587,97.27,1.1,2018
+930,Summit Components,North America,Chemicals,2,329934,86.18,2.22,2021
+931,Infinity Goods,Africa,Food,5,298624,85.87,4.5,2002
+932,Zenith Distributors,North America,Textiles,4,234602,85.32,0.67,2004
+933,Stellar Goods,Africa,Electronics,1,156599,86.66,1.93,2008
+934,NextGen Logistics,Africa,Chemicals,5,290713,91.15,4.11,2017
+935,Prime Distributors,North America,Food,2,278295,94.14,4.85,2010
+936,Infinity Goods,Asia,Textiles,2,469310,93.25,2.27,2015
+937,Universal Traders,South America,Textiles,4,195246,96.15,2.53,2001
+938,Cascade Traders,Europe,Textiles,1,49739,97.72,2.86,2011
+939,Alpha Resources,Africa,Textiles,1,37954,96.32,4.66,2021
+940,Cosmos Distributors,South America,Textiles,3,248935,80.38,4.29,2005
+941,Alpha Resources,Asia,Chemicals,1,114373,94.72,0.85,2010
+942,Fusion Industries,Europe,Food,4,433519,84.17,2.18,2007
+943,Acme Corp,Europe,Textiles,3,39700,82.66,2.32,2011
+944,Infinity Goods,Africa,Automotive,3,491252,92.77,3.95,2001
+945,Silverline Co.,North America,Automotive,2,128728,86.39,3.01,2008
+946,Vision Logistics,Asia,Food,2,465784,81.14,3.27,2014
+947,Prime Horizons,Africa,Electronics,1,333932,82.75,4.99,2001
+948,Velocity Ventures,Asia,Electronics,3,76045,80.02,0.37,2000
+949,Momentum Goods,North America,Electronics,2,436058,98.06,1.12,2009
+950,Eagle Enterprises,North America,Automotive,4,149972,80.49,2.04,2001
+951,Apollo Supplies,Africa,Electronics,2,395136,84.19,1.74,2011
+952,Elite Manufacturing,North America,Chemicals,2,347203,88.33,0.11,2022
+953,Cosmos Distributors,South America,Textiles,3,6881,87.13,0.46,2007
+954,Prime Distributors,Europe,Automotive,3,431253,98.23,3.4,2004
+955,Apex Solutions,Africa,Food,5,399846,80.81,4.4,2021
+956,NextGen Logistics,Asia,Food,4,287933,90.24,2.57,2000
+957,Delta Logistics,South America,Textiles,3,393227,93.61,2.7,2014
+958,Apex Solutions,Africa,Automotive,1,93059,98.63,1.28,2005
+959,Stellar Goods,North America,Electronics,4,219566,92.41,3.84,2011
+960,Global Supplies,North America,Electronics,4,313295,96.08,3.76,2007
+961,Eagle Enterprises,North America,Chemicals,3,447136,81.67,2.94,2012
+962,Nexus Components,North America,Chemicals,4,114388,87.72,1.06,2018
+963,Global Supplies,Asia,Electronics,3,203303,87.48,0.49,2000
+964,Alpha Resources,South America,Food,2,478573,97.73,0.32,2010
+965,Acme Corp,Europe,Food,5,270406,83.03,2.96,2019
+966,Prime Horizons,Asia,Chemicals,2,334125,83.04,4.13,2000
+967,Pinnacle Products,Asia,Textiles,3,388095,86.57,4.29,2007
+968,Everest Goods,Europe,Electronics,3,390243,81.09,2.32,2004
+969,Pinnacle Products,Europe,Chemicals,2,86972,83.65,3.92,2016
+970,Velocity Ventures,North America,Chemicals,1,342629,99.3,4.73,2007
+971,Vanguard Supplies,Asia,Electronics,1,59722,88.56,1.38,2009
+972,Zeta Corp,Africa,Electronics,1,356643,92.64,1.99,2001
+973,Vision Logistics,Europe,Food,3,186890,94.52,4.66,2008
+974,Legacy Supplies,Europe,Textiles,4,428148,87.34,1.69,2022
+975,Titan Ventures,South America,Textiles,3,274045,82.94,4.57,2002
+976,Atlas Components,Africa,Electronics,4,122473,84.13,4.91,2017
+977,NextGen Logistics,Africa,Automotive,2,497239,86.27,3.31,2006
+978,Stellar Goods,Europe,Chemicals,5,275741,92.72,4.08,2014
+979,Silverline Co.,North America,Chemicals,4,396775,87.97,3.75,2020
+980,Velocity Ventures,South America,Electronics,1,331053,80.14,3.5,2021
+981,Pinnacle Products,Africa,Automotive,3,339535,90.47,1.53,2019
+982,Echo Materials,Europe,Food,2,220286,98.43,0.29,2017
+983,Fusion Industries,Africa,Electronics,1,406479,96.24,1.72,2002
+984,Legacy Supplies,South America,Electronics,2,330437,96.5,3.33,2022
+985,Legacy Supplies,South America,Chemicals,5,248896,95.9,0.51,2013
+986,Acme Corp,Asia,Electronics,3,161877,86.47,0.06,2001
+987,Nexus Components,Europe,Electronics,3,489895,95.3,0.7,2013
+988,Gamma Industries,South America,Electronics,5,16874,82.86,3.58,2021
+989,Phoenix Products,Asia,Chemicals,3,229137,93.15,4.86,2010
+990,Summit Components,Asia,Food,4,353546,92.83,4.92,2015
+991,Velocity Ventures,Africa,Food,2,281223,80.51,2.47,2007
+992,Pioneer Products,Africa,Electronics,1,448066,95.76,4.35,2006
+993,Prime Horizons,Asia,Chemicals,5,339923,98.06,3.68,2010
+994,Silverline Co.,Africa,Food,4,100408,85.35,2.51,2002
+995,Titan Ventures,South America,Food,1,407234,96.25,2.86,2016
+996,Legacy Supplies,North America,Food,1,125606,81.65,0.69,2013
+997,Beta Solutions,South America,Chemicals,5,447716,92.0,4.69,2005
+998,Prime Horizons,Asia,Chemicals,4,125062,89.71,1.76,2007
+999,NextGen Logistics,Asia,Electronics,1,17100,90.92,2.23,2021
+1000,Cascade Traders,South America,Textiles,1,324165,98.52,3.36,2004

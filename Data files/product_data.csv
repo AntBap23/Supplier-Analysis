@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,UnitPriceUSD,StockQuantity
+1,Product_1,Finished Goods,253.35,244
+2,Product_2,Components,140.97,20
+3,Product_3,Finished Goods,326.08,109
+4,Product_4,Finished Goods,362.17,605
+5,Product_5,Raw Materials,432.12,393
+6,Product_6,Raw Materials,240.33,409
+7,Product_7,Raw Materials,497.25,986
+8,Product_8,Components,490.09,647
+9,Product_9,Raw Materials,441.67,742
+10,Product_10,Finished Goods,289.56,7
+11,Product_11,Components,202.01,443
+12,Product_12,Components,185.37,327
+13,Product_13,Components,11.0,886
+14,Product_14,Components,128.34,289
+15,Product_15,Finished Goods,360.81,762
+16,Product_16,Finished Goods,303.8,510
+17,Product_17,Raw Materials,458.63,911
+18,Product_18,Components,29.76,360
+19,Product_19,Raw Materials,81.86,908
+20,Product_20,Finished Goods,395.68,598
+21,Product_21,Components,182.46,715
+22,Product_22,Finished Goods,63.58,218
+23,Product_23,Raw Materials,498.24,405
+24,Product_24,Finished Goods,394.69,991
+25,Product_25,Components,207.33,752
+26,Product_26,Components,412.56,922
+27,Product_27,Raw Materials,341.9,831
+28,Product_28,Components,396.04,769
+29,Product_29,Finished Goods,408.53,620
+30,Product_30,Finished Goods,46.94,767
+31,Product_31,Finished Goods,313.37,992
+32,Product_32,Finished Goods,8.36,793
+33,Product_33,Raw Materials,26.51,219
+34,Product_34,Finished Goods,452.47,594
+35,Product_35,Raw Materials,266.14,106
+36,Product_36,Finished Goods,369.27,580
+37,Product_37,Raw Materials,420.06,608
+38,Product_38,Finished Goods,475.05,723
+39,Product_39,Finished Goods,435.33,285
+40,Product_40,Raw Materials,244.24,748
+41,Product_41,Components,171.31,7
+42,Product_42,Components,81.47,805
+43,Product_43,Components,203.16,188
+44,Product_44,Raw Materials,186.41,80
+45,Product_45,Components,281.99,107
+46,Product_46,Components,334.43,320
+47,Product_47,Raw Materials,489.27,578
+48,Product_48,Components,365.55,685
+49,Product_49,Components,323.66,345
+50,Product_50,Components,170.87,862
+51,Product_51,Raw Materials,22.08,327
+52,Product_52,Raw Materials,147.62,554
+53,Product_53,Components,385.38,698
+54,Product_54,Components,106.61,301
+55,Product_55,Raw Materials,357.53,199
+56,Product_56,Components,291.99,892
+57,Product_57,Raw Materials,90.07,418
+58,Product_58,Components,134.5,38
+59,Product_59,Raw Materials,250.67,731
+60,Product_60,Finished Goods,212.1,306
+61,Product_61,Finished Goods,390.39,3
+62,Product_62,Raw Materials,368.53,632
+63,Product_63,Finished Goods,289.41,847
+64,Product_64,Components,412.03,76
+65,Product_65,Raw Materials,283.52,467
+66,Product_66,Raw Materials,482.37,178
+67,Product_67,Components,112.53,644
+68,Product_68,Components,358.5,822
+69,Product_69,Raw Materials,188.12,740
+70,Product_70,Components,143.09,275
+71,Product_71,Raw Materials,94.29,151
+72,Product_72,Components,278.49,163
+73,Product_73,Raw Materials,111.66,289
+74,Product_74,Components,104.17,377
+75,Product_75,Components,495.31,620
+76,Product_76,Finished Goods,401.86,637
+77,Product_77,Finished Goods,375.4,751
+78,Product_78,Finished Goods,398.06,309
+79,Product_79,Components,484.62,929
+80,Product_80,Raw Materials,288.77,978
+81,Product_81,Components,114.02,912
+82,Product_82,Finished Goods,431.79,388
+83,Product_83,Components,372.65,856
+84,Product_84,Finished Goods,210.08,657
+85,Product_85,Finished Goods,239.42,763
+86,Product_86,Raw Materials,208.57,182
+87,Product_87,Raw Materials,465.32,820
+88,Product_88,Finished Goods,175.05,305
+89,Product_89,Finished Goods,481.92,71
+90,Product_90,Components,455.58,218
+91,Product_91,Finished Goods,317.11,718
+92,Product_92,Components,292.01,172
+93,Product_93,Finished Goods,188.19,652
+94,Product_94,Raw Materials,14.08,271
+95,Product_95,Raw Materials,68.17,725
+96,Product_96,Finished Goods,378.34,467
+97,Product_97,Components,238.41,268
+98,Product_98,Components,79.17,19
+99,Product_99,Components,135.66,577
+100,Product_100,Finished Goods,474.18,994
+101,Product_101,Finished Goods,186.73,814
+102,Product_102,Raw Materials,454.3,502
+103,Product_103,Raw Materials,155.79,146
+104,Product_104,Finished Goods,273.89,428
+105,Product_105,Raw Materials,15.14,164
+106,Product_106,Components,263.33,889
+107,Product_107,Components,320.29,309
+108,Product_108,Finished Goods,120.98,517
+109,Product_109,Components,291.57,13
+110,Product_110,Finished Goods,325.35,131
+111,Product_111,Components,345.01,853
+112,Product_112,Finished Goods,389.32,754
+113,Product_113,Components,159.11,438
+114,Product_114,Components,286.05,742
+115,Product_115,Raw Materials,490.88,739
+116,Product_116,Raw Materials,449.58,673
+117,Product_117,Raw Materials,476.57,794
+118,Product_118,Raw Materials,196.14,262
+119,Product_119,Raw Materials,394.53,642
+120,Product_120,Raw Materials,311.85,942
+121,Product_121,Finished Goods,45.95,224
+122,Product_122,Finished Goods,412.87,257
+123,Product_123,Raw Materials,340.17,233
+124,Product_124,Finished Goods,103.46,335
+125,Product_125,Raw Materials,44.47,408
+126,Product_126,Finished Goods,419.33,827
+127,Product_127,Components,44.06,974
+128,Product_128,Finished Goods,50.22,23
+129,Product_129,Finished Goods,216.57,270
+130,Product_130,Finished Goods,71.72,94
+131,Product_131,Components,457.27,141
+132,Product_132,Raw Materials,237.79,693
+133,Product_133,Finished Goods,286.73,717
+134,Product_134,Finished Goods,464.41,901
+135,Product_135,Components,267.48,973
+136,Product_136,Raw Materials,180.03,80
+137,Product_137,Finished Goods,399.59,273
+138,Product_138,Components,224.21,275
+139,Product_139,Raw Materials,162.64,882
+140,Product_140,Raw Materials,363.0,957
+141,Product_141,Finished Goods,401.79,464
+142,Product_142,Finished Goods,396.9,207
+143,Product_143,Finished Goods,488.95,295
+144,Product_144,Finished Goods,394.4,38
+145,Product_145,Components,386.12,947
+146,Product_146,Components,429.46,287
+147,Product_147,Finished Goods,5.09,123
+148,Product_148,Raw Materials,184.4,875
+149,Product_149,Finished Goods,370.11,968
+150,Product_150,Raw Materials,301.86,282
+151,Product_151,Raw Materials,92.9,877
+152,Product_152,Raw Materials,155.35,179
+153,Product_153,Components,171.71,96
+154,Product_154,Raw Materials,286.07,190
+155,Product_155,Raw Materials,416.64,73
+156,Product_156,Components,466.58,446
+157,Product_157,Raw Materials,376.3,784
+158,Product_158,Raw Materials,422.26,496
+159,Product_159,Finished Goods,237.7,560
+160,Product_160,Raw Materials,197.94,483
+161,Product_161,Raw Materials,199.39,848
+162,Product_162,Raw Materials,309.94,721
+163,Product_163,Raw Materials,66.5,115
+164,Product_164,Raw Materials,291.85,534
+165,Product_165,Components,334.24,97
+166,Product_166,Raw Materials,222.26,327
+167,Product_167,Raw Materials,476.82,908
+168,Product_168,Components,306.07,406
+169,Product_169,Components,113.9,312
+170,Product_170,Raw Materials,242.21,701
+171,Product_171,Raw Materials,339.33,693
+172,Product_172,Raw Materials,165.2,147
+173,Product_173,Finished Goods,44.42,341
+174,Product_174,Finished Goods,293.8,494
+175,Product_175,Raw Materials,474.2,947
+176,Product_176,Components,245.11,22
+177,Product_177,Raw Materials,453.52,104
+178,Product_178,Components,418.34,674
+179,Product_179,Components,77.97,578
+180,Product_180,Components,355.54,801
+181,Product_181,Raw Materials,220.56,800
+182,Product_182,Raw Materials,128.87,557
+183,Product_183,Components,345.03,592
+184,Product_184,Finished Goods,372.62,940
+185,Product_185,Finished Goods,94.05,658
+186,Product_186,Finished Goods,457.65,221
+187,Product_187,Components,376.82,854
+188,Product_188,Raw Materials,467.02,14
+189,Product_189,Components,161.95,890
+190,Product_190,Finished Goods,469.97,632
+191,Product_191,Raw Materials,187.42,77
+192,Product_192,Components,31.72,321
+193,Product_193,Components,382.67,806
+194,Product_194,Finished Goods,353.24,240
+195,Product_195,Components,300.97,17
+196,Product_196,Raw Materials,247.5,767
+197,Product_197,Finished Goods,20.92,453
+198,Product_198,Finished Goods,314.18,442
+199,Product_199,Raw Materials,211.33,927
+200,Product_200,Finished Goods,282.3,276
