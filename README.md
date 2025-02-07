@@ -74,14 +74,11 @@ The dataset is generated using a Jupyter Notebook, which prepares the data for P
 ## Power BI Dashboard
 
 ### Screenshots
-Below are screenshots of the Power BI dashboard:
+Below are dashboard pics of the Power BI dashboard:
 
-![Total Spend by Month](images/total_spend_by_month.png)
-![Average On Time Delivery](images/avg_on_time_delivery.png)
-![Supplier Spend by Region](images/supplier_spend_by_region.png)
-![Delivery Performance](images/delivery_performance.png)
-
-*Note: Images have been extracted from the attached PDF.*
+![Delivery Performance & Quality Control](dashboard pics/Screenshot_2025-02-07_170008.png)
+![Regional Trends: Spend, Delivery & Performance](dashboard pics/Screenshot_2025-02-07_170034.png)
+![Key Metrics & Insights](dashboard pics/Screenshot_2025-02-07_170057.png)
 
 ### PDF Report
 For a detailed view of the Power BI dashboards, refer to the [Supplier Analysis Dashboards PDF](Supplier%20Analysis%20Dashboards.pdf).
