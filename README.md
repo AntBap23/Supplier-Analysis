@@ -71,14 +71,7 @@ The dataset is generated using a Jupyter Notebook, which prepares the data for P
    - Create visualizations for supplier performance.
    - Perform trend analysis using interactive visuals.
 
-## Power BI Dashboard
 
-### Screenshots
-Below are dashboard pics of the Power BI dashboard:
-
-![Delivery Performance & Quality Control](dashboard pics/Screenshot_2025-02-07_170008.png)
-![Regional Trends: Spend, Delivery & Performance](dashboard pics/Screenshot_2025-02-07_170034.png)
-![Key Metrics & Insights](dashboard pics/Screenshot_2025-02-07_170057.png)
 
 ### PDF Report
 For a detailed view of the Power BI dashboards, refer to the [Supplier Analysis Dashboards PDF](Supplier%20Analysis%20Dashboards.pdf).
