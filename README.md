@@ -74,12 +74,17 @@ The dataset is generated using a Jupyter Notebook, which prepares the data for P
 ## Power BI Dashboard
 
 ### Screenshots
-_Add screenshots of the Power BI dashboard here once completed._
+Below are screenshots of the Power BI dashboard:
 
-### Published Dashboard
-Once the Power BI dashboard is published, the link will be available below:
+![Total Spend by Month](images/total_spend_by_month.png)
+![Average On Time Delivery](images/avg_on_time_delivery.png)
+![Supplier Spend by Region](images/supplier_spend_by_region.png)
+![Delivery Performance](images/delivery_performance.png)
 
-[View Power BI Dashboard](#) *(Link to be updated once published.)*
+*Note: Images have been extracted from the attached PDF.*
+
+### PDF Report
+For a detailed view of the Power BI dashboards, refer to the [Supplier Analysis Dashboards PDF](Supplier%20Analysis%20Dashboards.pdf).
 
 ## Results
 
@@ -97,4 +102,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
 
