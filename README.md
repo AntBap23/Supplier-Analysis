@@ -1,97 +1,92 @@
-# Supplier Analysis
+
+# 📊 Supplier Analysis
+
+![GitHub Repo Stars](https://img.shields.io/github/stars/AntBap23/Supplier-Analysis?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/AntBap23/Supplier-Analysis?style=social)
+![License](https://img.shields.io/github/license/AntBap23/Supplier-Analysis)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/AntBap23/Supplier-Analysis)
+
+## 📌 Project Overview
 
 This project focuses on analyzing supplier performance using data analytics and visualization techniques. By leveraging Power BI, the goal is to provide insights into supplier efficiency, cost-effectiveness, and reliability.
 
-## Table of Contents
+---
 
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Power BI Dashboard](#power-bi-dashboard)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Project Overview
-
-Managing supplier relationships is crucial for business success. This project applies data analytics to assess supplier performance, uncover patterns, and support better decision-making through Power BI dashboards.
-
-## Dataset
+## 📂 Dataset
 
 The dataset used in this project includes supplier-related information such as:
 
-- **Supplier ID**: Unique identifier for each supplier
-- **Delivery Time**: Time taken by the supplier to deliver goods
-- **Cost Efficiency**: Comparison of supplier costs to industry standards
-- **Quality Ratings**: Ratings given based on delivered product quality
-- **Order Accuracy**: Percentage of correctly fulfilled orders
-- **On-Time Performance**: Percentage of on-time deliveries
+- **Supplier ID:** Unique identifier for each supplier
+- **Delivery Time:** Time taken by the supplier to deliver goods
+- **Cost Efficiency:** Comparison of supplier costs to industry standards
+- **Quality Ratings:** Ratings based on the quality of goods supplied
 
-## Installation
+---
 
-To run this project locally, follow these steps:
+## 🛠️ Technologies Used
 
-1. **Clone the repository**:
+| Technology | Purpose |
+|------------|---------|
+| 🐍 Python | Data Generation |
+| 📊 Power BI | Data Visualization |
+| 📓 Jupyter Notebook | Data Generation Script |
 
-   ```bash
-   git clone https://github.com/AntBap23/Supplier-Analysis.git
-   cd Supplier-Analysis
-   ```
+---
 
-2. **Set up a virtual environment** (optional but recommended):
+## 🚀 Installation & Usage
 
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows, use venv\Scripts\activate
-   ```
+### 📥 1. Clone the Repository
 
-3. **Install the required dependencies**:
+```bash
+git clone https://github.com/AntBap23/Supplier-Analysis.git
+cd Supplier-Analysis
+```
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+### 🔧 2. Data Generation
 
-   *Note: Ensure that `requirements.txt` is available in the repository with all necessary dependencies listed.*
+The dataset can be generated using the provided Jupyter Notebook:
 
-## Usage
+1. **Open the Notebook:** `datagenerator.ipynb`
+2. **Run the Notebook:** This will generate `raw_excel.xlsx` containing the supplier data.
 
-The dataset is generated using a Jupyter Notebook, which prepares the data for Power BI analysis. Follow these steps:
+### 📊 3. Power BI Dashboard
 
-1. **Launch Jupyter Notebook**:
+1. **Open Power BI Desktop**
+2. **Load Data:** Import `raw_excel.xlsx` into Power BI.
+3. **Create Visualizations:** Use Power BI to create dashboards analyzing supplier performance.
 
-   ```bash
-   jupyter notebook
-   ```
+---
 
-2. **Open** `data_preparation.ipynb` and execute the cells sequentially to clean and prepare the dataset for analysis.
+## 🎯 Future Enhancements
 
-3. **Power BI Dashboard**:
-   - Load the cleaned dataset into Power BI.
-   - Create visualizations for supplier performance.
-   - Perform trend analysis using interactive visuals.
+- **Advanced Analytics:** Implement predictive analytics to forecast supplier performance.
+- **Integration:** Connect to live data sources for real-time analysis.
+- **Interactive Dashboards:** Enhance dashboards with more interactive features.
 
+---
 
+## 🤝 Contributing
 
-### PDF Report
-For a detailed view of the Power BI dashboards, refer to the [Supplier Analysis Dashboards PDF](Supplier%20Analysis%20Dashboards.pdf).
+We welcome contributions! Please follow these steps:
 
-## Results
+1. **Fork the repository**
+2. **Create a feature branch** (`git checkout -b feature-branch`)
+3. **Commit your changes** (`git commit -m "Added new feature"`)
+4. **Push to GitHub** (`git push origin feature-branch`)
+5. **Submit a Pull Request** 🚀
 
-The analysis provides insights into:
+---
 
-- **Top-performing suppliers**
-- **Areas of improvement for suppliers**
-- **Cost-saving opportunities through supplier optimization**
-- **Predictive trends for supplier performance**
+## 📜 License
 
-## Contributing
+This project is open-source under the **MIT License**.
 
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+---
 
-## License
+## 📬 Contact
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+**Author:** Anthony Baptiste  
+**GitHub:** [AntBap23](https://github.com/AntBap23)
 
 
 
